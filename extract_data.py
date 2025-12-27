@@ -117,8 +117,9 @@ def extract_schiff():
 
 def extract_user_materials():
     print("Extracting User Materials (PerfumersWorld)...")
-    # Read as string to avoid date corruption where possible, though openpyxl might still warn
-    df = pd.read_excel('DB_User_Materials_Optimized.xlsx')
+    # Read from the cleaned CSV provided by the user
+    # Columns expected: SKU, Material Name, Constituent, CAS, Percentage
+    df = pd.read_csv('DB_User_Materials_Optimized.xlsx - Sheet1.csv')
     user_contributions = {}
     
     # Solvent CAS Mapping

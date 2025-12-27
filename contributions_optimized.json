@@ -9909,15 +9909,15 @@
         }
     },
     "5YH07549": {
-        "name": "Oakmoss Absolute  (IFRA Low Atranol) 10% in DPG from PerfumersWorld",
+        "name": "Oakmoss Absolute (IFRA Low Atranol) 10% in DPG from PerfumersWorld",
         "constituents": {
             "9000-50-4": 9.09090909090909,
             "90028-68-5": 9.09090909090909,
             "25265-71-8": 81.81818181818181
         }
     },
-    "oakmoss absolute  (ifra low atranol) 10% in dpg from perfumersworld": {
-        "name": "Oakmoss Absolute  (IFRA Low Atranol) 10% in DPG from PerfumersWorld",
+    "oakmoss absolute (ifra low atranol) 10% in dpg from perfumersworld": {
+        "name": "Oakmoss Absolute (IFRA Low Atranol) 10% in DPG from PerfumersWorld",
         "constituents": {
             "9000-50-4": 9.09090909090909,
             "90028-68-5": 9.09090909090909,
@@ -23186,6 +23186,3234 @@
         "name": "Tobacco Absolute from PerfumersWorld",
         "constituents": {
             "91-64-5": 0.16
+        }
+    },
+    "1VD00002": {
+        "name": "6-Methyl Coumarin from PerfumersWorld",
+        "constituents": {
+            "92-48-8": 100.0
+        }
+    },
+    "6-methyl coumarin from perfumersworld": {
+        "name": "6-Methyl Coumarin from PerfumersWorld",
+        "constituents": {
+            "92-48-8": 100.0
+        }
+    },
+    "5VD07562": {
+        "name": "6-Methyl Coumarin 10% in DPG from PerfumersWorld",
+        "constituents": {
+            "92-48-8": 5.263157894736842,
+            "25265-71-8": 94.73684210526315
+        }
+    },
+    "6-methyl coumarin 10% in dpg from perfumersworld": {
+        "name": "6-Methyl Coumarin 10% in DPG from PerfumersWorld",
+        "constituents": {
+            "92-48-8": 5.263157894736842,
+            "25265-71-8": 94.73684210526315
+        }
+    },
+    "6CG13368": {
+        "name": "Agrumen Aldehyde PW from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "agrumen aldehyde pw from perfumersworld": {
+        "name": "Agrumen Aldehyde PW from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6GN23713": {
+        "name": "Algenone from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "algenone from perfumersworld": {
+        "name": "Algenone from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "5II11436": {
+        "name": "Alpha Irone 10% in DPG from PerfumersWorld",
+        "constituents": {
+            "79-69-6": 5.263157894736842,
+            "25265-71-8": 94.73684210526315
+        }
+    },
+    "alpha irone 10% in dpg from perfumersworld": {
+        "name": "Alpha Irone 10% in DPG from PerfumersWorld",
+        "constituents": {
+            "79-69-6": 5.263157894736842,
+            "25265-71-8": 94.73684210526315
+        }
+    },
+    "4WW17035": {
+        "name": "Amber Core from PerfumersWorld",
+        "constituents": {
+            "139504-68-0": 100.0
+        }
+    },
+    "amber core from perfumersworld": {
+        "name": "Amber Core from PerfumersWorld",
+        "constituents": {
+            "139504-68-0": 100.0
+        }
+    },
+    "6UQ20900": {
+        "name": "AMBERNOIR F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "ambernoir f-tec from perfumersworld": {
+        "name": "AMBERNOIR F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6UQ09624": {
+        "name": "Amberome Base PW from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "amberome base pw from perfumersworld": {
+        "name": "Amberome Base PW from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6UV16208": {
+        "name": "Ambreine Classic PW from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "ambreine classic pw from perfumersworld": {
+        "name": "Ambreine Classic PW from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6VC09625": {
+        "name": "Ambreine Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "ambreine fleuressence from perfumersworld": {
+        "name": "Ambreine Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6HH18090": {
+        "name": "ARMOISE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "armoise f-tec from perfumersworld": {
+        "name": "ARMOISE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6LW12346": {
+        "name": "Bois de Rose Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "bois de rose fleuressence from perfumersworld": {
+        "name": "Bois de Rose Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6XB18881": {
+        "name": "CASHMERE MUSK F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "cashmere musk f-tec from perfumersworld": {
+        "name": "CASHMERE MUSK F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "7CC24028": {
+        "name": "Cedrat FCF oil Sicilian from PerfumersWorld",
+        "constituents": {
+            "8008-56-8": 100.0
+        }
+    },
+    "cedrat fcf oil sicilian from perfumersworld": {
+        "name": "Cedrat FCF oil Sicilian from PerfumersWorld",
+        "constituents": {
+            "8008-56-8": 100.0
+        }
+    },
+    "6NJ09072": {
+        "name": "Champaca Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "champaca fleuressence from perfumersworld": {
+        "name": "Champaca Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6CL11946": {
+        "name": "Chrome Citrus Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "chrome citrus fleuressence from perfumersworld": {
+        "name": "Chrome Citrus Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6CL18125": {
+        "name": "CHROME F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "chrome f-tec from perfumersworld": {
+        "name": "CHROME F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "8UQ08229": {
+        "name": "Cistus Absolute SIS F0785 (BIOLANDES) from PerfumersWorld",
+        "constituents": {
+            "8016-26-0": 100.0
+        }
+    },
+    "cistus absolute sis f0785 (biolandes) from perfumersworld": {
+        "name": "Cistus Absolute SIS F0785 (BIOLANDES) from PerfumersWorld",
+        "constituents": {
+            "8016-26-0": 100.0
+        }
+    },
+    "6AC18110": {
+        "name": "CITRUS ALDEHYDE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "citrus aldehyde f-tec from perfumersworld": {
+        "name": "CITRUS ALDEHYDE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6AC09112": {
+        "name": "Citrus Aldehyde Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "citrus aldehyde fleuressence from perfumersworld": {
+        "name": "Citrus Aldehyde Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6ET20539": {
+        "name": "Coffee Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "coffee fleuressence from perfumersworld": {
+        "name": "Coffee Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "5UW08963": {
+        "name": "Costus Olifac 1% in DPG from PerfumersWorld",
+        "constituents": {
+            "8023-88-9": 0.5025125628140703,
+            "25265-71-8": 99.49748743718592
+        }
+    },
+    "costus olifac 1% in dpg from perfumersworld": {
+        "name": "Costus Olifac 1% in DPG from PerfumersWorld",
+        "constituents": {
+            "8023-88-9": 0.5025125628140703,
+            "25265-71-8": 99.49748743718592
+        }
+    },
+    "5UW11312": {
+        "name": "Costus Olifac 10% in DPG from PerfumersWorld",
+        "constituents": {
+            "8023-88-9": 5.263157894736842,
+            "25265-71-8": 94.73684210526315
+        }
+    },
+    "costus olifac 10% in dpg from perfumersworld": {
+        "name": "Costus Olifac 10% in DPG from PerfumersWorld",
+        "constituents": {
+            "8023-88-9": 5.263157894736842,
+            "25265-71-8": 94.73684210526315
+        }
+    },
+    "4UW09665": {
+        "name": "Costus Olifac Iff from PerfumersWorld",
+        "constituents": {
+            "8023-88-9": 100.0
+        }
+    },
+    "costus olifac iff from perfumersworld": {
+        "name": "Costus Olifac Iff from PerfumersWorld",
+        "constituents": {
+            "8023-88-9": 100.0
+        }
+    },
+    "6DF18006": {
+        "name": "D-DAIRY F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "d-dairy f-tec from perfumersworld": {
+        "name": "D-DAIRY F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6DD08537": {
+        "name": "D-Dairy Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "d-dairy fleuressence from perfumersworld": {
+        "name": "D-Dairy Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6EG18010": {
+        "name": "E-EDIBLE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "e-edible f-tec from perfumersworld": {
+        "name": "E-EDIBLE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6CA07765": {
+        "name": "Eucalyptus Citriodora Natural Blend from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "eucalyptus citriodora natural blend from perfumersworld": {
+        "name": "Eucalyptus Citriodora Natural Blend from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "3MX07491": {
+        "name": "Fixetal from PerfumersWorld",
+        "constituents": {
+            "3087-36-3": 100.0
+        }
+    },
+    "fixetal from perfumersworld": {
+        "name": "Fixetal from PerfumersWorld",
+        "constituents": {
+            "3087-36-3": 100.0
+        }
+    },
+    "6EJ18929": {
+        "name": "FRAGRANT RICE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "fragrant rice f-tec from perfumersworld": {
+        "name": "FRAGRANT RICE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6LC07501": {
+        "name": "Freesia HDL from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "freesia hdl from perfumersworld": {
+        "name": "Freesia HDL from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "4GN00231": {
+        "name": "Hyacinth Body from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "hyacinth body from perfumersworld": {
+        "name": "Hyacinth Body from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6NU23529": {
+        "name": "Indolene ND Replacer from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "indolene nd replacer from perfumersworld": {
+        "name": "Indolene ND Replacer from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "3GS16129": {
+        "name": "Ivybase from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "ivybase from perfumersworld": {
+        "name": "Ivybase from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6KL18017": {
+        "name": "K-KONIFER F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "k-konifer f-tec from perfumersworld": {
+        "name": "K-KONIFER F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6KL11970": {
+        "name": "K-Konifer Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "k-konifer fleuressence from perfumersworld": {
+        "name": "K-Konifer Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6DD18141": {
+        "name": "LACTONE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "lactone f-tec from perfumersworld": {
+        "name": "LACTONE F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6DD08390": {
+        "name": "Lactone Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "lactone fleuressence from perfumersworld": {
+        "name": "Lactone Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6FG18210": {
+        "name": "LIGHT AND AIRY F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "light and airy f-tec from perfumersworld": {
+        "name": "LIGHT AND AIRY F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6FG11947": {
+        "name": "Light and Airy Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "light and airy fleuressence from perfumersworld": {
+        "name": "Light and Airy Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6LJ18322": {
+        "name": "LIGHT BLENDER F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "light blender f-tec from perfumersworld": {
+        "name": "LIGHT BLENDER F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6LJ09076": {
+        "name": "Light Blender Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "light blender fleuressence from perfumersworld": {
+        "name": "Light Blender Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6LL18018": {
+        "name": "LIGHT CRISP FLORAL F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "light crisp floral f-tec from perfumersworld": {
+        "name": "LIGHT CRISP FLORAL F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6MG18474": {
+        "name": "Lilyreal IFRA from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "lilyreal ifra from perfumersworld": {
+        "name": "Lilyreal IFRA from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6MG22777": {
+        "name": "Lilyreal ND from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "lilyreal nd from perfumersworld": {
+        "name": "Lilyreal ND from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6XY17557": {
+        "name": "Musk X Super from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "musk x super from perfumersworld": {
+        "name": "Musk X Super from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6XU17558": {
+        "name": "Musk Xylol REP from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "musk xylol rep from perfumersworld": {
+        "name": "Musk Xylol REP from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "4WU22432": {
+        "name": "Norlimbanol Dextro from PerfumersWorld",
+        "constituents": {
+            "70788-30-6": 100.0
+        }
+    },
+    "norlimbanol dextro from perfumersworld": {
+        "name": "Norlimbanol Dextro from PerfumersWorld",
+        "constituents": {
+            "70788-30-6": 100.0
+        }
+    },
+    "5WU23677": {
+        "name": "Norlimbanol Dextro 10% in DPG from PerfumersWorld",
+        "constituents": {
+            "70788-30-6": 5.263157894736842,
+            "25265-71-8": 94.73684210526315
+        }
+    },
+    "norlimbanol dextro 10% in dpg from perfumersworld": {
+        "name": "Norlimbanol Dextro 10% in DPG from PerfumersWorld",
+        "constituents": {
+            "70788-30-6": 5.263157894736842,
+            "25265-71-8": 94.73684210526315
+        }
+    },
+    "6FQ21068": {
+        "name": "Palm Dates Base from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "palm dates base from perfumersworld": {
+        "name": "Palm Dates Base from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6CN23709": {
+        "name": "Pamzest from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "pamzest from perfumersworld": {
+        "name": "Pamzest from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "7WB13670": {
+        "name": "Patchouli Light Essential Oil from PerfumersWorld",
+        "constituents": {
+            "8014-09-03": 100.0
+        }
+    },
+    "patchouli light essential oil from perfumersworld": {
+        "name": "Patchouli Light Essential Oil from PerfumersWorld",
+        "constituents": {
+            "8014-09-03": 100.0
+        }
+    },
+    "6XZ10738": {
+        "name": "PWx Factor from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "pwx factor from perfumersworld": {
+        "name": "PWx Factor from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6XZ12347": {
+        "name": "PWx Oil Factor - Natural from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "pwx oil factor - natural from perfumersworld": {
+        "name": "PWx Oil Factor - Natural from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "7WX21054": {
+        "name": "Sandalwood Oil S.album from PerfumersWorld",
+        "constituents": {
+            "8006-87-9": 100.0
+        }
+    },
+    "sandalwood oil s.album from perfumersworld": {
+        "name": "Sandalwood Oil S.album from PerfumersWorld",
+        "constituents": {
+            "8006-87-9": 100.0
+        }
+    },
+    "3WX00407": {
+        "name": "Sandela 50 from PerfumersWorld",
+        "constituents": {
+            "28219-61-6": 100.0
+        }
+    },
+    "sandela 50 from perfumersworld": {
+        "name": "Sandela 50 from PerfumersWorld",
+        "constituents": {
+            "28219-61-6": 100.0
+        }
+    },
+    "3WX13005": {
+        "name": "Sandela 85 from PerfumersWorld",
+        "constituents": {
+            "28219-61-6": 100.0
+        }
+    },
+    "sandela 85 from perfumersworld": {
+        "name": "Sandela 85 from PerfumersWorld",
+        "constituents": {
+            "28219-61-6": 100.0
+        }
+    },
+    "0ZS05357": {
+        "name": "Solubilizer (Polysorbate 20) from PerfumersWorld",
+        "constituents": {
+            "9005-64-5": 100.0
+        }
+    },
+    "solubilizer (polysorbate 20) from perfumersworld": {
+        "name": "Solubilizer (Polysorbate 20) from PerfumersWorld",
+        "constituents": {
+            "9005-64-5": 100.0
+        }
+    },
+    "0ZS07781": {
+        "name": "Solubilizer Extra Clear from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "solubilizer extra clear from perfumersworld": {
+        "name": "Solubilizer Extra Clear from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "0ZS07626": {
+        "name": "Solubilizer PWS from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "solubilizer pws from perfumersworld": {
+        "name": "Solubilizer PWS from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "7BB00414": {
+        "name": "Spearmint Essential Oil from PerfumersWorld",
+        "constituents": {
+            "8008-79-5": 100.0
+        }
+    },
+    "spearmint essential oil from perfumersworld": {
+        "name": "Spearmint Essential Oil from PerfumersWorld",
+        "constituents": {
+            "8008-79-5": 100.0
+        }
+    },
+    "6BG18119": {
+        "name": "SPEARMINT F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "spearmint f-tec from perfumersworld": {
+        "name": "SPEARMINT F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6BB08505": {
+        "name": "Spearmint Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "spearmint fleuressence from perfumersworld": {
+        "name": "Spearmint Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "3UP14351": {
+        "name": "Suederal from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "suederal from perfumersworld": {
+        "name": "Suederal from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6EV18167": {
+        "name": "SWEET CORN F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "sweet corn f-tec from perfumersworld": {
+        "name": "SWEET CORN F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6EV10628": {
+        "name": "Sweet Corn Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "sweet corn fleuressence from perfumersworld": {
+        "name": "Sweet Corn Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6QZ21000": {
+        "name": "Thixener X 300 from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "thixener x 300 from perfumersworld": {
+        "name": "Thixener X 300 from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "2QV23715": {
+        "name": "Tonkarome from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "tonkarome from perfumersworld": {
+        "name": "Tonkarome from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6RM21857": {
+        "name": "Wardia BM from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "wardia bm from perfumersworld": {
+        "name": "Wardia BM from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6ZZ00449": {
+        "name": "Z-ZOLVENT F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "z-zolvent f-tec from perfumersworld": {
+        "name": "Z-ZOLVENT F-TEC from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "6ZZ00501": {
+        "name": "Z-Zolvent Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "z-zolvent fleuressence from perfumersworld": {
+        "name": "Z-Zolvent Fleuressence from PerfumersWorld",
+        "constituents": {
+            "mixture": 100.0
+        }
+    },
+    "deionized water from perfumersworld": {
+        "name": "Deionized Water from PerfumersWorld",
+        "constituents": {
+            "7732-18-5": 100.0
+        }
+    },
+    "ethanol 99.9% from perfumersworld": {
+        "name": "Ethanol 99.9% from PerfumersWorld",
+        "constituents": {
+            "64-17-5": 100.0
+        }
+    },
+    "dpg": {
+        "name": "DPG",
+        "constituents": {
+            "25265-71-8": 100.0
+        }
+    },
+    "ipm": {
+        "name": "IPM",
+        "constituents": {
+            "110-27-0": 100.0
+        }
+    },
+    "tec": {
+        "name": "TEC",
+        "constituents": {
+            "77-93-0": 100.0
+        }
+    },
+    "bb": {
+        "name": "BB",
+        "constituents": {
+            "120-51-4": 100.0
+        }
+    },
+    "8F3094001657": {
+        "name": "2-Acetyl Pyrazine (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "22047-25-2": 100.0
+        }
+    },
+    "2-acetyl pyrazine (powder) from simplescentsdiy": {
+        "name": "2-Acetyl Pyrazine (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "22047-25-2": 100.0
+        }
+    },
+    "8F3094001770": {
+        "name": "Aldehyde C-10 from SimpleScentsDIY",
+        "constituents": {
+            "112-31-2": 100.0
+        }
+    },
+    "aldehyde c-10 from simplescentsdiy": {
+        "name": "Aldehyde C-10 from SimpleScentsDIY",
+        "constituents": {
+            "112-31-2": 100.0
+        }
+    },
+    "8F3094001771": {
+        "name": "Aldehyde C-11 from SimpleScentsDIY",
+        "constituents": {
+            "112-45-8": 100.0
+        }
+    },
+    "aldehyde c-11 from simplescentsdiy": {
+        "name": "Aldehyde C-11 from SimpleScentsDIY",
+        "constituents": {
+            "112-45-8": 100.0
+        }
+    },
+    "8F3094001656": {
+        "name": "Aldehyde C-12 from SimpleScentsDIY",
+        "constituents": {
+            "112-54-9": 100.0
+        }
+    },
+    "aldehyde c-12 from simplescentsdiy": {
+        "name": "Aldehyde C-12 from SimpleScentsDIY",
+        "constituents": {
+            "112-54-9": 100.0
+        }
+    },
+    "8F3094005317": {
+        "name": "Aldehyde C-12 MNA from SimpleScentsDIY",
+        "constituents": {
+            "110-41-8": 100.0
+        }
+    },
+    "aldehyde c-12 mna from simplescentsdiy": {
+        "name": "Aldehyde C-12 MNA from SimpleScentsDIY",
+        "constituents": {
+            "110-41-8": 100.0
+        }
+    },
+    "8F3094001800": {
+        "name": "Aldehyde C-14 Pure from SimpleScentsDIY",
+        "constituents": {
+            "104-67-6": 100.0
+        }
+    },
+    "aldehyde c-14 pure from simplescentsdiy": {
+        "name": "Aldehyde C-14 Pure from SimpleScentsDIY",
+        "constituents": {
+            "104-67-6": 100.0
+        }
+    },
+    "8F3094001431": {
+        "name": "Aldehyde C-16 from SimpleScentsDIY",
+        "constituents": {
+            "77-83-8": 100.0
+        }
+    },
+    "aldehyde c-16 from simplescentsdiy": {
+        "name": "Aldehyde C-16 from SimpleScentsDIY",
+        "constituents": {
+            "77-83-8": 100.0
+        }
+    },
+    "8F3094001801": {
+        "name": "Aldehyde C-18 Pure from SimpleScentsDIY",
+        "constituents": {
+            "104-67-6": 100.0
+        }
+    },
+    "aldehyde c-18 pure from simplescentsdiy": {
+        "name": "Aldehyde C-18 Pure from SimpleScentsDIY",
+        "constituents": {
+            "104-67-6": 100.0
+        }
+    },
+    "8F3094001768": {
+        "name": "Aldehyde C-8 from SimpleScentsDIY",
+        "constituents": {
+            "124-13-0": 100.0
+        }
+    },
+    "aldehyde c-8 from simplescentsdiy": {
+        "name": "Aldehyde C-8 from SimpleScentsDIY",
+        "constituents": {
+            "124-13-0": 100.0
+        }
+    },
+    "8F3094001769": {
+        "name": "Aldehyde C-9 from SimpleScentsDIY",
+        "constituents": {
+            "124-19-6": 100.0
+        }
+    },
+    "aldehyde c-9 from simplescentsdiy": {
+        "name": "Aldehyde C-9 from SimpleScentsDIY",
+        "constituents": {
+            "124-19-6": 100.0
+        }
+    },
+    "8F3094001826": {
+        "name": "Allyl Caproate\u00a0C6 from SimpleScentsDIY",
+        "constituents": {
+            "123-68-2": 100.0
+        }
+    },
+    "allyl caproate\u00a0c6 from simplescentsdiy": {
+        "name": "Allyl Caproate\u00a0C6 from SimpleScentsDIY",
+        "constituents": {
+            "123-68-2": 100.0
+        }
+    },
+    "8F3094001704": {
+        "name": "Allyl Heptylate from SimpleScentsDIY",
+        "constituents": {
+            "142-19-8": 100.0
+        }
+    },
+    "allyl heptylate from simplescentsdiy": {
+        "name": "Allyl Heptylate from SimpleScentsDIY",
+        "constituents": {
+            "142-19-8": 100.0
+        }
+    },
+    "8F3094001290": {
+        "name": "Alpha Ionone from SimpleScentsDIY",
+        "constituents": {
+            "127-41-3": 100.0
+        }
+    },
+    "alpha ionone from simplescentsdiy": {
+        "name": "Alpha Ionone from SimpleScentsDIY",
+        "constituents": {
+            "127-41-3": 100.0
+        }
+    },
+    "8F3094005333": {
+        "name": "Alpha-Pinene from SimpleScentsDIY",
+        "constituents": {
+            "80-56-8": 100.0
+        }
+    },
+    "alpha-pinene from simplescentsdiy": {
+        "name": "Alpha-Pinene from SimpleScentsDIY",
+        "constituents": {
+            "80-56-8": 100.0
+        }
+    },
+    "8F3094001701": {
+        "name": "Amber Core from SimpleScentsDIY",
+        "constituents": {
+            "139504-68-0": 100.0
+        }
+    },
+    "amber core from simplescentsdiy": {
+        "name": "Amber Core from SimpleScentsDIY",
+        "constituents": {
+            "139504-68-0": 100.0
+        }
+    },
+    "8F3094001890": {
+        "name": "Ambermax 50% Dowanol TPM from SimpleScentsDIY",
+        "constituents": {
+            "929625-08-1": 100.0
+        }
+    },
+    "ambermax 50% dowanol tpm from simplescentsdiy": {
+        "name": "Ambermax 50% Dowanol TPM from SimpleScentsDIY",
+        "constituents": {
+            "929625-08-1": 100.0
+        }
+    },
+    "8F3094001658": {
+        "name": "Ambermor DL (Semi Solid) from SimpleScentsDIY",
+        "constituents": {
+            "3738-00-9": 100.0
+        }
+    },
+    "ambermor dl (semi solid) from simplescentsdiy": {
+        "name": "Ambermor DL (Semi Solid) from SimpleScentsDIY",
+        "constituents": {
+            "3738-00-9": 100.0
+        }
+    },
+    "8F3094004205": {
+        "name": "Amberwood F from SimpleScentsDIY",
+        "constituents": {
+            "58567-11-6": 100.0
+        }
+    },
+    "amberwood f from simplescentsdiy": {
+        "name": "Amberwood F from SimpleScentsDIY",
+        "constituents": {
+            "58567-11-6": 100.0
+        }
+    },
+    "8F3094001556": {
+        "name": "Ambrettolide from SimpleScentsDIY",
+        "constituents": {
+            "28645-51-4": 100.0
+        }
+    },
+    "ambrettolide from simplescentsdiy": {
+        "name": "Ambrettolide from SimpleScentsDIY",
+        "constituents": {
+            "28645-51-4": 100.0
+        }
+    },
+    "8F3094004161": {
+        "name": "Ambrinol from SimpleScentsDIY",
+        "constituents": {
+            "41199-19-3": 100.0
+        }
+    },
+    "ambrinol from simplescentsdiy": {
+        "name": "Ambrinol from SimpleScentsDIY",
+        "constituents": {
+            "41199-19-3": 100.0
+        }
+    },
+    "8F3094001659": {
+        "name": "Ambrocenide (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "211299-54-6": 100.0
+        }
+    },
+    "ambrocenide (powder) from simplescentsdiy": {
+        "name": "Ambrocenide (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "211299-54-6": 100.0
+        }
+    },
+    "8F3094001561": {
+        "name": "Ambroxan (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "6790-58-5": 100.0
+        }
+    },
+    "ambroxan (powder) from simplescentsdiy": {
+        "name": "Ambroxan (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "6790-58-5": 100.0
+        }
+    },
+    "8F3094005337": {
+        "name": "Anethol from SimpleScentsDIY",
+        "constituents": {
+            "4180-23-8": 100.0
+        }
+    },
+    "anethol from simplescentsdiy": {
+        "name": "Anethol from SimpleScentsDIY",
+        "constituents": {
+            "4180-23-8": 100.0
+        }
+    },
+    "8F3094004198": {
+        "name": "Anisaldehyde from SimpleScentsDIY",
+        "constituents": {
+            "0123-11-5": 100.0
+        }
+    },
+    "anisaldehyde from simplescentsdiy": {
+        "name": "Anisaldehyde from SimpleScentsDIY",
+        "constituents": {
+            "0123-11-5": 100.0
+        }
+    },
+    "8F3094004207": {
+        "name": "Aphermate from SimpleScentsDIY",
+        "constituents": {
+            "25225-08-05": 100.0
+        }
+    },
+    "aphermate from simplescentsdiy": {
+        "name": "Aphermate from SimpleScentsDIY",
+        "constituents": {
+            "25225-08-05": 100.0
+        }
+    },
+    "8F3094001772": {
+        "name": "Azarbre from SimpleScentsDIY",
+        "constituents": {
+            "68845-36-3": 100.0
+        }
+    },
+    "azarbre from simplescentsdiy": {
+        "name": "Azarbre from SimpleScentsDIY",
+        "constituents": {
+            "68845-36-3": 100.0
+        }
+    },
+    "8F3094001773": {
+        "name": "Bacdanol from SimpleScentsDIY",
+        "constituents": {
+            "28219-61-6": 100.0
+        }
+    },
+    "bacdanol from simplescentsdiy": {
+        "name": "Bacdanol from SimpleScentsDIY",
+        "constituents": {
+            "28219-61-6": 100.0
+        }
+    },
+    "8F3094001640": {
+        "name": "Benzaldehyde from SimpleScentsDIY",
+        "constituents": {
+            "100-52-7": 100.0
+        }
+    },
+    "benzaldehyde from simplescentsdiy": {
+        "name": "Benzaldehyde from SimpleScentsDIY",
+        "constituents": {
+            "100-52-7": 100.0
+        }
+    },
+    "8F3094001432": {
+        "name": "Benzyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "0140-11-4": 100.0
+        }
+    },
+    "benzyl acetate from simplescentsdiy": {
+        "name": "Benzyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "0140-11-4": 100.0
+        }
+    },
+    "8F3094001690": {
+        "name": "Benzyl Benzoate from SimpleScentsDIY",
+        "constituents": {
+            "120-51-4": 100.0
+        }
+    },
+    "benzyl benzoate from simplescentsdiy": {
+        "name": "Benzyl Benzoate from SimpleScentsDIY",
+        "constituents": {
+            "120-51-4": 100.0
+        }
+    },
+    "8F3094001300": {
+        "name": "Benzyl Salicylate from SimpleScentsDIY",
+        "constituents": {
+            "118-58-1": 100.0
+        }
+    },
+    "benzyl salicylate from simplescentsdiy": {
+        "name": "Benzyl Salicylate from SimpleScentsDIY",
+        "constituents": {
+            "118-58-1": 100.0
+        }
+    },
+    "8F3094001645": {
+        "name": "Beta Caryophyllene from SimpleScentsDIY",
+        "constituents": {
+            "87-44-5": 100.0
+        }
+    },
+    "beta caryophyllene from simplescentsdiy": {
+        "name": "Beta Caryophyllene from SimpleScentsDIY",
+        "constituents": {
+            "87-44-5": 100.0
+        }
+    },
+    "8F3094005318": {
+        "name": "Bourgeonal from SimpleScentsDIY",
+        "constituents": {
+            "18127-01-0": 100.0
+        }
+    },
+    "bourgeonal from simplescentsdiy": {
+        "name": "Bourgeonal from SimpleScentsDIY",
+        "constituents": {
+            "18127-01-0": 100.0
+        }
+    },
+    "8F3094001559": {
+        "name": "Calone (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "28940-11-6": 100.0
+        }
+    },
+    "calone (powder) from simplescentsdiy": {
+        "name": "Calone (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "28940-11-6": 100.0
+        }
+    },
+    "8F3094004157": {
+        "name": "Canthoxal from SimpleScentsDIY",
+        "constituents": {
+            "5462-06-06": 100.0
+        }
+    },
+    "canthoxal from simplescentsdiy": {
+        "name": "Canthoxal from SimpleScentsDIY",
+        "constituents": {
+            "5462-06-06": 100.0
+        }
+    },
+    "8F3094004215": {
+        "name": "Carbinol Muguet from SimpleScentsDIY",
+        "constituents": {
+            "0103-05-09": 100.0
+        }
+    },
+    "carbinol muguet from simplescentsdiy": {
+        "name": "Carbinol Muguet from SimpleScentsDIY",
+        "constituents": {
+            "0103-05-09": 100.0
+        }
+    },
+    "8F3094001698": {
+        "name": "Cashmeran 10% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "33704-61-9": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "cashmeran 10% in dpg from simplescentsdiy": {
+        "name": "Cashmeran 10% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "33704-61-9": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "8F3094001551": {
+        "name": "Cedramber from SimpleScentsDIY",
+        "constituents": {
+            "19870-74-7": 100.0
+        }
+    },
+    "cedramber from simplescentsdiy": {
+        "name": "Cedramber from SimpleScentsDIY",
+        "constituents": {
+            "19870-74-7": 100.0
+        }
+    },
+    "8F3094005312": {
+        "name": "Cedroxyde from SimpleScentsDIY",
+        "constituents": {
+            "71735-79-0": 100.0
+        }
+    },
+    "cedroxyde from simplescentsdiy": {
+        "name": "Cedroxyde from SimpleScentsDIY",
+        "constituents": {
+            "71735-79-0": 100.0
+        }
+    },
+    "8F3094001833": {
+        "name": "Cinnamic Aldehyde from SimpleScentsDIY",
+        "constituents": {
+            "104-55-2": 100.0
+        }
+    },
+    "cinnamic aldehyde from simplescentsdiy": {
+        "name": "Cinnamic Aldehyde from SimpleScentsDIY",
+        "constituents": {
+            "104-55-2": 100.0
+        }
+    },
+    "8F3094001834": {
+        "name": "Cinnamyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "103-54-8": 100.0
+        }
+    },
+    "cinnamyl acetate from simplescentsdiy": {
+        "name": "Cinnamyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "103-54-8": 100.0
+        }
+    },
+    "8F3094001819": {
+        "name": "Cinnamyl Alcohol 50% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "104-54-1": 66.66666666666666,
+            "25265-71-8": 33.33333333333333
+        }
+    },
+    "cinnamyl alcohol 50% in dpg from simplescentsdiy": {
+        "name": "Cinnamyl Alcohol 50% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "104-54-1": 66.66666666666666,
+            "25265-71-8": 33.33333333333333
+        }
+    },
+    "8F3094001560": {
+        "name": "CIS Jasmone from SimpleScentsDIY",
+        "constituents": {
+            "0488-10-8": 100.0
+        }
+    },
+    "cis jasmone from simplescentsdiy": {
+        "name": "CIS Jasmone from SimpleScentsDIY",
+        "constituents": {
+            "0488-10-8": 100.0
+        }
+    },
+    "8F3094005324": {
+        "name": "Cis-3-Hexenol from SimpleScentsDIY",
+        "constituents": {
+            "928-96-1": 100.0
+        }
+    },
+    "cis-3-hexenol from simplescentsdiy": {
+        "name": "Cis-3-Hexenol from SimpleScentsDIY",
+        "constituents": {
+            "928-96-1": 100.0
+        }
+    },
+    "8F3094001830": {
+        "name": "Cis-3-hexenyl Isobutyrate from SimpleScentsDIY",
+        "constituents": {
+            "41519-23-7": 100.0
+        }
+    },
+    "cis-3-hexenyl isobutyrate from simplescentsdiy": {
+        "name": "Cis-3-hexenyl Isobutyrate from SimpleScentsDIY",
+        "constituents": {
+            "41519-23-7": 100.0
+        }
+    },
+    "8F3094001284": {
+        "name": "Citral Nat from SimpleScentsDIY",
+        "constituents": {
+            "5392-40-5": 100.0
+        }
+    },
+    "citral nat from simplescentsdiy": {
+        "name": "Citral Nat from SimpleScentsDIY",
+        "constituents": {
+            "5392-40-5": 100.0
+        }
+    },
+    "8F3094004197": {
+        "name": "Citronellal from SimpleScentsDIY",
+        "constituents": {
+            "106-23-0": 100.0
+        }
+    },
+    "citronellal from simplescentsdiy": {
+        "name": "Citronellal from SimpleScentsDIY",
+        "constituents": {
+            "106-23-0": 100.0
+        }
+    },
+    "8F3094001297": {
+        "name": "Citronello 70 from SimpleScentsDIY",
+        "constituents": {
+            "106-22-9": 100.0
+        }
+    },
+    "citronello 70 from simplescentsdiy": {
+        "name": "Citronello 70 from SimpleScentsDIY",
+        "constituents": {
+            "106-22-9": 100.0
+        }
+    },
+    "8F3094004206": {
+        "name": "Coranol from SimpleScentsDIY",
+        "constituents": {
+            "83926-73-2": 100.0
+        }
+    },
+    "coranol from simplescentsdiy": {
+        "name": "Coranol from SimpleScentsDIY",
+        "constituents": {
+            "83926-73-2": 100.0
+        }
+    },
+    "8F3094001563": {
+        "name": "Coumarin (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "91-64-5": 100.0
+        }
+    },
+    "coumarin (powder) from simplescentsdiy": {
+        "name": "Coumarin (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "91-64-5": 100.0
+        }
+    },
+    "8F3094001644": {
+        "name": "Cyclamen Aldehyde from SimpleScentsDIY",
+        "constituents": {
+            "103-95-7": 100.0
+        }
+    },
+    "cyclamen aldehyde from simplescentsdiy": {
+        "name": "Cyclamen Aldehyde from SimpleScentsDIY",
+        "constituents": {
+            "103-95-7": 100.0
+        }
+    },
+    "8F3094004158": {
+        "name": "Cyclogalbanate from SimpleScentsDIY",
+        "constituents": {
+            "68901-15-5": 100.0
+        }
+    },
+    "cyclogalbanate from simplescentsdiy": {
+        "name": "Cyclogalbanate from SimpleScentsDIY",
+        "constituents": {
+            "68901-15-5": 100.0
+        }
+    },
+    "8F3094001728": {
+        "name": "Damascenone from SimpleScentsDIY",
+        "constituents": {
+            "23696-85-7": 100.0
+        }
+    },
+    "damascenone from simplescentsdiy": {
+        "name": "Damascenone from SimpleScentsDIY",
+        "constituents": {
+            "23696-85-7": 100.0
+        }
+    },
+    "8F3094001729": {
+        "name": "Damascone Alpha from SimpleScentsDIY",
+        "constituents": {
+            "24720-09-0": 100.0
+        }
+    },
+    "damascone alpha from simplescentsdiy": {
+        "name": "Damascone Alpha from SimpleScentsDIY",
+        "constituents": {
+            "24720-09-0": 100.0
+        }
+    },
+    "8F3094001730": {
+        "name": "Damascone Beta from SimpleScentsDIY",
+        "constituents": {
+            "23726-91-2": 100.0
+        }
+    },
+    "damascone beta from simplescentsdiy": {
+        "name": "Damascone Beta from SimpleScentsDIY",
+        "constituents": {
+            "23726-91-2": 100.0
+        }
+    },
+    "8F3094001820": {
+        "name": "Damascone Delta from SimpleScentsDIY",
+        "constituents": {
+            "57378-68-4": 100.0
+        }
+    },
+    "damascone delta from simplescentsdiy": {
+        "name": "Damascone Delta from SimpleScentsDIY",
+        "constituents": {
+            "57378-68-4": 100.0
+        }
+    },
+    "8F3094001825": {
+        "name": "Delta Decalactone from SimpleScentsDIY",
+        "constituents": {
+            "705-86-2": 100.0
+        }
+    },
+    "delta decalactone from simplescentsdiy": {
+        "name": "Delta Decalactone from SimpleScentsDIY",
+        "constituents": {
+            "705-86-2": 100.0
+        }
+    },
+    "8F3094001550": {
+        "name": "Diethyl Malonate from SimpleScentsDIY",
+        "constituents": {
+            "105-53-3": 100.0
+        }
+    },
+    "diethyl malonate from simplescentsdiy": {
+        "name": "Diethyl Malonate from SimpleScentsDIY",
+        "constituents": {
+            "105-53-3": 100.0
+        }
+    },
+    "8F3094001822": {
+        "name": "Dihydro Jasmone from SimpleScentsDIY",
+        "constituents": {
+            "1128-08-01": 100.0
+        }
+    },
+    "dihydro jasmone from simplescentsdiy": {
+        "name": "Dihydro Jasmone from SimpleScentsDIY",
+        "constituents": {
+            "1128-08-01": 100.0
+        }
+    },
+    "8F3094001289": {
+        "name": "Dihydromyrcenol from SimpleScentsDIY",
+        "constituents": {
+            "18479-58-8": 100.0
+        }
+    },
+    "dihydromyrcenol from simplescentsdiy": {
+        "name": "Dihydromyrcenol from SimpleScentsDIY",
+        "constituents": {
+            "18479-58-8": 100.0
+        }
+    },
+    "8F3094001775": {
+        "name": "Dimetol from SimpleScentsDIY",
+        "constituents": {
+            "13254-34-7": 100.0
+        }
+    },
+    "dimetol from simplescentsdiy": {
+        "name": "Dimetol from SimpleScentsDIY",
+        "constituents": {
+            "13254-34-7": 100.0
+        }
+    },
+    "8F3094004204": {
+        "name": "Diphenyl Oxide from SimpleScentsDIY",
+        "constituents": {
+            "101-84-8": 100.0
+        }
+    },
+    "diphenyl oxide from simplescentsdiy": {
+        "name": "Diphenyl Oxide from SimpleScentsDIY",
+        "constituents": {
+            "101-84-8": 100.0
+        }
+    },
+    "8F3094001794": {
+        "name": "D-Limonene from SimpleScentsDIY",
+        "constituents": {
+            "5989-27-5": 100.0
+        }
+    },
+    "d-limonene from simplescentsdiy": {
+        "name": "D-Limonene from SimpleScentsDIY",
+        "constituents": {
+            "5989-27-5": 100.0
+        }
+    },
+    "8F3094005316": {
+        "name": "DMBC Acetate from SimpleScentsDIY",
+        "constituents": {
+            "0151-05-03": 100.0
+        }
+    },
+    "dmbc acetate from simplescentsdiy": {
+        "name": "DMBC Acetate from SimpleScentsDIY",
+        "constituents": {
+            "0151-05-03": 100.0
+        }
+    },
+    "8F3094001904": {
+        "name": "Dynascone from SimpleScentsDIY",
+        "constituents": {
+            "56973-85-4": 100.0
+        }
+    },
+    "dynascone from simplescentsdiy": {
+        "name": "Dynascone from SimpleScentsDIY",
+        "constituents": {
+            "56973-85-4": 100.0
+        }
+    },
+    "8F3094004194": {
+        "name": "Ebanol from SimpleScentsDIY",
+        "constituents": {
+            "67801-20-1": 100.0
+        }
+    },
+    "ebanol from simplescentsdiy": {
+        "name": "Ebanol from SimpleScentsDIY",
+        "constituents": {
+            "67801-20-1": 100.0
+        }
+    },
+    "8F3094001483": {
+        "name": "Ethyl 2-methyl butyrate from SimpleScentsDIY",
+        "constituents": {
+            "7452-79-1": 100.0
+        }
+    },
+    "ethyl 2-methyl butyrate from simplescentsdiy": {
+        "name": "Ethyl 2-methyl butyrate from SimpleScentsDIY",
+        "constituents": {
+            "7452-79-1": 100.0
+        }
+    },
+    "8F3094001641": {
+        "name": "Ethyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "141-78-6": 100.0
+        }
+    },
+    "ethyl acetate from simplescentsdiy": {
+        "name": "Ethyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "141-78-6": 100.0
+        }
+    },
+    "8F3094001434": {
+        "name": "Ethyl Butyrate from SimpleScentsDIY",
+        "constituents": {
+            "105-54-4": 100.0
+        }
+    },
+    "ethyl butyrate from simplescentsdiy": {
+        "name": "Ethyl Butyrate from SimpleScentsDIY",
+        "constituents": {
+            "105-54-4": 100.0
+        }
+    },
+    "8F3094005311": {
+        "name": "Ethyl Linalool from SimpleScentsDIY",
+        "constituents": {
+            "10339-55-6": 100.0
+        }
+    },
+    "ethyl linalool from simplescentsdiy": {
+        "name": "Ethyl Linalool from SimpleScentsDIY",
+        "constituents": {
+            "10339-55-6": 100.0
+        }
+    },
+    "8F3094001695": {
+        "name": "Ethyl Maltol (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "4940-11-8": 100.0
+        }
+    },
+    "ethyl maltol (powder) from simplescentsdiy": {
+        "name": "Ethyl Maltol (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "4940-11-8": 100.0
+        }
+    },
+    "8F3094001646": {
+        "name": "Ethyl Safranate from SimpleScentsDIY",
+        "constituents": {
+            "35044-59-8": 100.0
+        }
+    },
+    "ethyl safranate from simplescentsdiy": {
+        "name": "Ethyl Safranate from SimpleScentsDIY",
+        "constituents": {
+            "35044-59-8": 100.0
+        }
+    },
+    "8F3094001699": {
+        "name": "Ethyl Vanillin (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "121-32-4": 100.0
+        }
+    },
+    "ethyl vanillin (powder) from simplescentsdiy": {
+        "name": "Ethyl Vanillin (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "121-32-4": 100.0
+        }
+    },
+    "8F3094001886": {
+        "name": "Ethylene Brassylate (Musk T) from SimpleScentsDIY",
+        "constituents": {
+            "105-95-3": 100.0
+        }
+    },
+    "ethylene brassylate (musk t) from simplescentsdiy": {
+        "name": "Ethylene Brassylate (Musk T) from SimpleScentsDIY",
+        "constituents": {
+            "105-95-3": 100.0
+        }
+    },
+    "8F3094001864": {
+        "name": "Eugenol Nat from SimpleScentsDIY",
+        "constituents": {
+            "97-53-0": 100.0
+        }
+    },
+    "eugenol nat from simplescentsdiy": {
+        "name": "Eugenol Nat from SimpleScentsDIY",
+        "constituents": {
+            "97-53-0": 100.0
+        }
+    },
+    "8F3094001564": {
+        "name": "Evernyl (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "4707-47-5": 100.0
+        }
+    },
+    "evernyl (powder) from simplescentsdiy": {
+        "name": "Evernyl (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "4707-47-5": 100.0
+        }
+    },
+    "8F3094001821": {
+        "name": "Farnesol from SimpleScentsDIY",
+        "constituents": {
+            "4602-84-0": 100.0
+        }
+    },
+    "farnesol from simplescentsdiy": {
+        "name": "Farnesol from SimpleScentsDIY",
+        "constituents": {
+            "4602-84-0": 100.0
+        }
+    },
+    "8F3094001789": {
+        "name": "Fixamber from SimpleScentsDIY",
+        "constituents": {
+            "144020-22-4": 100.0
+        }
+    },
+    "fixamber from simplescentsdiy": {
+        "name": "Fixamber from SimpleScentsDIY",
+        "constituents": {
+            "144020-22-4": 100.0
+        }
+    },
+    "8F3094001554": {
+        "name": "Floralozone from SimpleScentsDIY",
+        "constituents": {
+            "67634-14-4": 100.0
+        }
+    },
+    "floralozone from simplescentsdiy": {
+        "name": "Floralozone from SimpleScentsDIY",
+        "constituents": {
+            "67634-14-4": 100.0
+        }
+    },
+    "8F3094005319": {
+        "name": "Florhydral from SimpleScentsDIY",
+        "constituents": {
+            "125109-85-5": 100.0
+        }
+    },
+    "florhydral from simplescentsdiy": {
+        "name": "Florhydral from SimpleScentsDIY",
+        "constituents": {
+            "125109-85-5": 100.0
+        }
+    },
+    "8F3094001285": {
+        "name": "Florol from SimpleScentsDIY",
+        "constituents": {
+            "63500-71-0": 100.0
+        }
+    },
+    "florol from simplescentsdiy": {
+        "name": "Florol from SimpleScentsDIY",
+        "constituents": {
+            "63500-71-0": 100.0
+        }
+    },
+    "8F3094001776": {
+        "name": "Floropal from SimpleScentsDIY",
+        "constituents": {
+            "5182-36-5": 100.0
+        }
+    },
+    "floropal from simplescentsdiy": {
+        "name": "Floropal from SimpleScentsDIY",
+        "constituents": {
+            "5182-36-5": 100.0
+        }
+    },
+    "8F3094001481": {
+        "name": "Fragolane / Fructone B from SimpleScentsDIY",
+        "constituents": {
+            "6413.-10-1": 100.0
+        }
+    },
+    "fragolane / fructone b from simplescentsdiy": {
+        "name": "Fragolane / Fructone B from SimpleScentsDIY",
+        "constituents": {
+            "6413.-10-1": 100.0
+        }
+    },
+    "8F3094004212": {
+        "name": "Fruitate from SimpleScentsDIY",
+        "constituents": {
+            "80657-64-3": 100.0
+        }
+    },
+    "fruitate from simplescentsdiy": {
+        "name": "Fruitate from SimpleScentsDIY",
+        "constituents": {
+            "80657-64-3": 100.0
+        }
+    },
+    "8F3094001828": {
+        "name": "Furaneol 10% In DPG from SimpleScentsDIY",
+        "constituents": {
+            "3658-77-3": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "furaneol 10% in dpg from simplescentsdiy": {
+        "name": "Furaneol 10% In DPG from SimpleScentsDIY",
+        "constituents": {
+            "3658-77-3": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "8F3094001703": {
+        "name": "Galaxolide 100% (Pure) from SimpleScentsDIY",
+        "constituents": {
+            "1222-05-05": 100.0
+        }
+    },
+    "galaxolide 100% (pure) from simplescentsdiy": {
+        "name": "Galaxolide 100% (Pure) from SimpleScentsDIY",
+        "constituents": {
+            "1222-05-05": 100.0
+        }
+    },
+    "8F3094001731": {
+        "name": "Gamma Decalactone from SimpleScentsDIY",
+        "constituents": {
+            "706-14-9": 100.0
+        }
+    },
+    "gamma decalactone from simplescentsdiy": {
+        "name": "Gamma Decalactone from SimpleScentsDIY",
+        "constituents": {
+            "706-14-9": 100.0
+        }
+    },
+    "8F3094005320": {
+        "name": "Gamma-Heptalactone from SimpleScentsDIY",
+        "constituents": {
+            "105-21-5": 100.0
+        }
+    },
+    "gamma-heptalactone from simplescentsdiy": {
+        "name": "Gamma-Heptalactone from SimpleScentsDIY",
+        "constituents": {
+            "105-21-5": 100.0
+        }
+    },
+    "8F3094001903": {
+        "name": "Gamma-Octalactone from SimpleScentsDIY",
+        "constituents": {
+            "104-50-7": 100.0
+        }
+    },
+    "gamma-octalactone from simplescentsdiy": {
+        "name": "Gamma-Octalactone from SimpleScentsDIY",
+        "constituents": {
+            "104-50-7": 100.0
+        }
+    },
+    "8F3094001291": {
+        "name": "Geraniol from SimpleScentsDIY",
+        "constituents": {
+            "106-24-1": 100.0
+        }
+    },
+    "geraniol from simplescentsdiy": {
+        "name": "Geraniol from SimpleScentsDIY",
+        "constituents": {
+            "106-24-1": 100.0
+        }
+    },
+    "8F3094001298": {
+        "name": "Geranyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "105-87-3": 100.0
+        }
+    },
+    "geranyl acetate from simplescentsdiy": {
+        "name": "Geranyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "105-87-3": 100.0
+        }
+    },
+    "8F3094004193": {
+        "name": "Globanone 50 % in DPG from SimpleScentsDIY",
+        "constituents": {
+            "3100-36-5": 66.66666666666666,
+            "25265-71-8": 33.33333333333333
+        }
+    },
+    "globanone 50 % in dpg from simplescentsdiy": {
+        "name": "Globanone 50 % in DPG from SimpleScentsDIY",
+        "constituents": {
+            "3100-36-5": 66.66666666666666,
+            "25265-71-8": 33.33333333333333
+        }
+    },
+    "8F3094001653": {
+        "name": "Guaiacol from SimpleScentsDIY",
+        "constituents": {
+            "90-05-1": 100.0
+        }
+    },
+    "guaiacol from simplescentsdiy": {
+        "name": "Guaiacol from SimpleScentsDIY",
+        "constituents": {
+            "90-05-1": 100.0
+        }
+    },
+    "8F3094001832": {
+        "name": "Habanolide from SimpleScentsDIY",
+        "constituents": {
+            "111879-80-2": 100.0
+        }
+    },
+    "habanolide from simplescentsdiy": {
+        "name": "Habanolide from SimpleScentsDIY",
+        "constituents": {
+            "111879-80-2": 100.0
+        }
+    },
+    "8F3094001479": {
+        "name": "Hedione from SimpleScentsDIY",
+        "constituents": {
+            "24851-98-7": 100.0
+        }
+    },
+    "hedione from simplescentsdiy": {
+        "name": "Hedione from SimpleScentsDIY",
+        "constituents": {
+            "24851-98-7": 100.0
+        }
+    },
+    "8F3094001878": {
+        "name": "Hedione HC from SimpleScentsDIY",
+        "constituents": {
+            "24851-98-7": 100.0
+        }
+    },
+    "hedione hc from simplescentsdiy": {
+        "name": "Hedione HC from SimpleScentsDIY",
+        "constituents": {
+            "24851-98-7": 100.0
+        }
+    },
+    "8F3094001802": {
+        "name": "Helional from SimpleScentsDIY",
+        "constituents": {
+            "1205-17-0": 100.0
+        }
+    },
+    "helional from simplescentsdiy": {
+        "name": "Helional from SimpleScentsDIY",
+        "constituents": {
+            "1205-17-0": 100.0
+        }
+    },
+    "8F3094001643": {
+        "name": "Heliotrope Base from SimpleScentsDIY",
+        "constituents": {
+            "120-57-0": 100.0
+        }
+    },
+    "heliotrope base from simplescentsdiy": {
+        "name": "Heliotrope Base from SimpleScentsDIY",
+        "constituents": {
+            "120-57-0": 100.0
+        }
+    },
+    "8F3094001831": {
+        "name": "Helvetolide from SimpleScentsDIY",
+        "constituents": {
+            "141773-73-1": 100.0
+        }
+    },
+    "helvetolide from simplescentsdiy": {
+        "name": "Helvetolide from SimpleScentsDIY",
+        "constituents": {
+            "141773-73-1": 100.0
+        }
+    },
+    "8F3094004195": {
+        "name": "Hexyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "142-92-7": 100.0
+        }
+    },
+    "hexyl acetate from simplescentsdiy": {
+        "name": "Hexyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "142-92-7": 100.0
+        }
+    },
+    "8F3094004201": {
+        "name": "Hexyl Salicylate from SimpleScentsDIY",
+        "constituents": {
+            "6259-76-3": 100.0
+        }
+    },
+    "hexyl salicylate from simplescentsdiy": {
+        "name": "Hexyl Salicylate from SimpleScentsDIY",
+        "constituents": {
+            "6259-76-3": 100.0
+        }
+    },
+    "8F3094004211": {
+        "name": "Hivernal Neo from SimpleScentsDIY",
+        "constituents": {
+            "300371-33-9": 100.0
+        }
+    },
+    "hivernal neo from simplescentsdiy": {
+        "name": "Hivernal Neo from SimpleScentsDIY",
+        "constituents": {
+            "300371-33-9": 100.0
+        }
+    },
+    "8F3094001861": {
+        "name": "Hydroxycitronellal from SimpleScentsDIY",
+        "constituents": {
+            "107-75-5": 100.0
+        }
+    },
+    "hydroxycitronellal from simplescentsdiy": {
+        "name": "Hydroxycitronellal from SimpleScentsDIY",
+        "constituents": {
+            "107-75-5": 100.0
+        }
+    },
+    "8F3094001860": {
+        "name": "Indole 10% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "120-72-9": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "indole 10% in dpg from simplescentsdiy": {
+        "name": "Indole 10% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "120-72-9": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "8F3094001265": {
+        "name": "Iso E Super from SimpleScentsDIY",
+        "constituents": {
+            "54464-57-2": 100.0
+        }
+    },
+    "iso e super from simplescentsdiy": {
+        "name": "Iso E Super from SimpleScentsDIY",
+        "constituents": {
+            "54464-57-2": 100.0
+        }
+    },
+    "8F3094001694": {
+        "name": "Isoamyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "123-92-2": 100.0
+        }
+    },
+    "isoamyl acetate from simplescentsdiy": {
+        "name": "Isoamyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "123-92-2": 100.0
+        }
+    },
+    "8F3094001553": {
+        "name": "Isoamyl Butyrate from SimpleScentsDIY",
+        "constituents": {
+            "106-27-4": 100.0
+        }
+    },
+    "isoamyl butyrate from simplescentsdiy": {
+        "name": "Isoamyl Butyrate from SimpleScentsDIY",
+        "constituents": {
+            "106-27-4": 100.0
+        }
+    },
+    "8F3094001862": {
+        "name": "Isoamyl Phenyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "102-19-2": 100.0
+        }
+    },
+    "isoamyl phenyl acetate from simplescentsdiy": {
+        "name": "Isoamyl Phenyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "102-19-2": 100.0
+        }
+    },
+    "8F3094001691": {
+        "name": "Isoamyl Salicylate from SimpleScentsDIY",
+        "constituents": {
+            "87-20-7": 100.0
+        }
+    },
+    "isoamyl salicylate from simplescentsdiy": {
+        "name": "Isoamyl Salicylate from SimpleScentsDIY",
+        "constituents": {
+            "87-20-7": 100.0
+        }
+    },
+    "8F3094001655": {
+        "name": "Isobutavan from SimpleScentsDIY",
+        "constituents": {
+            "20665-85-4": 100.0
+        }
+    },
+    "isobutavan from simplescentsdiy": {
+        "name": "Isobutavan from SimpleScentsDIY",
+        "constituents": {
+            "20665-85-4": 100.0
+        }
+    },
+    "8F3094001865": {
+        "name": "IsoButyl Quinoline from SimpleScentsDIY",
+        "constituents": {
+            "1333-58-0": 100.0
+        }
+    },
+    "isobutyl quinoline from simplescentsdiy": {
+        "name": "IsoButyl Quinoline from SimpleScentsDIY",
+        "constituents": {
+            "1333-58-0": 100.0
+        }
+    },
+    "8F3094001692": {
+        "name": "Isobutyl Salicylate from SimpleScentsDIY",
+        "constituents": {
+            "87-19-4": 100.0
+        }
+    },
+    "isobutyl salicylate from simplescentsdiy": {
+        "name": "Isobutyl Salicylate from SimpleScentsDIY",
+        "constituents": {
+            "87-19-4": 100.0
+        }
+    },
+    "8F3094001777": {
+        "name": "Isocyclocitral from SimpleScentsDIY",
+        "constituents": {
+            "1335-66-6": 100.0
+        }
+    },
+    "isocyclocitral from simplescentsdiy": {
+        "name": "Isocyclocitral from SimpleScentsDIY",
+        "constituents": {
+            "1335-66-6": 100.0
+        }
+    },
+    "8F3094004214": {
+        "name": "Isolongifolanone from SimpleScentsDIY",
+        "constituents": {
+            "23787-90-8": 100.0
+        }
+    },
+    "isolongifolanone from simplescentsdiy": {
+        "name": "Isolongifolanone from SimpleScentsDIY",
+        "constituents": {
+            "23787-90-8": 100.0
+        }
+    },
+    "8F3094001732": {
+        "name": "Jasmolactone from SimpleScentsDIY",
+        "constituents": {
+            "32764-98-0": 100.0
+        }
+    },
+    "jasmolactone from simplescentsdiy": {
+        "name": "Jasmolactone from SimpleScentsDIY",
+        "constituents": {
+            "32764-98-0": 100.0
+        }
+    },
+    "8F3094001693": {
+        "name": "Jasmonal H (HCA) from SimpleScentsDIY",
+        "constituents": {
+            "101-86-0": 100.0
+        }
+    },
+    "jasmonal h (hca) from simplescentsdiy": {
+        "name": "Jasmonal H (HCA) from SimpleScentsDIY",
+        "constituents": {
+            "101-86-0": 100.0
+        }
+    },
+    "8F3094004199": {
+        "name": "Javanol from SimpleScentsDIY",
+        "constituents": {
+            "198404-98-7": 100.0
+        }
+    },
+    "javanol from simplescentsdiy": {
+        "name": "Javanol from SimpleScentsDIY",
+        "constituents": {
+            "198404-98-7": 100.0
+        }
+    },
+    "8F3094001887": {
+        "name": "Jessemal from SimpleScentsDIY",
+        "constituents": {
+            "38285-49-3": 100.0
+        }
+    },
+    "jessemal from simplescentsdiy": {
+        "name": "Jessemal from SimpleScentsDIY",
+        "constituents": {
+            "38285-49-3": 100.0
+        }
+    },
+    "8F3094001905": {
+        "name": "Kephalis from SimpleScentsDIY",
+        "constituents": {
+            "36306-87-3": 100.0
+        }
+    },
+    "kephalis from simplescentsdiy": {
+        "name": "Kephalis from SimpleScentsDIY",
+        "constituents": {
+            "36306-87-3": 100.0
+        }
+    },
+    "8F3094001778": {
+        "name": "Koavone from SimpleScentsDIY",
+        "constituents": {
+            "81786-75-6": 100.0
+        }
+    },
+    "koavone from simplescentsdiy": {
+        "name": "Koavone from SimpleScentsDIY",
+        "constituents": {
+            "81786-75-6": 100.0
+        }
+    },
+    "8F3094005334": {
+        "name": "Kohinool from SimpleScentsDIY",
+        "constituents": {
+            "87118-95-4": 100.0
+        }
+    },
+    "kohinool from simplescentsdiy": {
+        "name": "Kohinool from SimpleScentsDIY",
+        "constituents": {
+            "87118-95-4": 100.0
+        }
+    },
+    "8E3094000973": {
+        "name": "Labdanum Resinoid 10% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "89997-74-0": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "labdanum resinoid 10% in dpg from simplescentsdiy": {
+        "name": "Labdanum Resinoid 10% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "89997-74-0": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "8F3094001795": {
+        "name": "Lemonile from SimpleScentsDIY",
+        "constituents": {
+            "61792-11-8": 100.0
+        }
+    },
+    "lemonile from simplescentsdiy": {
+        "name": "Lemonile from SimpleScentsDIY",
+        "constituents": {
+            "61792-11-8": 100.0
+        }
+    },
+    "8F3094004159": {
+        "name": "Liffarome from SimpleScentsDIY",
+        "constituents": {
+            "67633-96-9": 100.0
+        }
+    },
+    "liffarome from simplescentsdiy": {
+        "name": "Liffarome from SimpleScentsDIY",
+        "constituents": {
+            "67633-96-9": 100.0
+        }
+    },
+    "8F3094004370": {
+        "name": "Lily Flore (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "285977-85-7": 100.0
+        }
+    },
+    "lily flore (powder) from simplescentsdiy": {
+        "name": "Lily Flore (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "285977-85-7": 100.0
+        }
+    },
+    "8F3094001912": {
+        "name": "Lily Flore 10 % In DPG from SimpleScentsDIY",
+        "constituents": {
+            "285977-85-7": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "lily flore 10 % in dpg from simplescentsdiy": {
+        "name": "Lily Flore 10 % In DPG from SimpleScentsDIY",
+        "constituents": {
+            "285977-85-7": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "8F3094001295": {
+        "name": "Linalool from SimpleScentsDIY",
+        "constituents": {
+            "78-70-6": 100.0
+        }
+    },
+    "linalool from simplescentsdiy": {
+        "name": "Linalool from SimpleScentsDIY",
+        "constituents": {
+            "78-70-6": 100.0
+        }
+    },
+    "8F3094001299": {
+        "name": "Linalyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "115-95-7": 100.0
+        }
+    },
+    "linalyl acetate from simplescentsdiy": {
+        "name": "Linalyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "115-95-7": 100.0
+        }
+    },
+    "8F3094001705": {
+        "name": "Magnolan from SimpleScentsDIY",
+        "constituents": {
+            "27606-09-03": 100.0
+        }
+    },
+    "magnolan from simplescentsdiy": {
+        "name": "Magnolan from SimpleScentsDIY",
+        "constituents": {
+            "27606-09-03": 100.0
+        }
+    },
+    "8F3094004208": {
+        "name": "Majantol from SimpleScentsDIY",
+        "constituents": {
+            "103694-68-4": 100.0
+        }
+    },
+    "majantol from simplescentsdiy": {
+        "name": "Majantol from SimpleScentsDIY",
+        "constituents": {
+            "103694-68-4": 100.0
+        }
+    },
+    "8F3094001433": {
+        "name": "Manzanate from SimpleScentsDIY",
+        "constituents": {
+            "39255-32-8": 100.0
+        }
+    },
+    "manzanate from simplescentsdiy": {
+        "name": "Manzanate from SimpleScentsDIY",
+        "constituents": {
+            "39255-32-8": 100.0
+        }
+    },
+    "8F3094004209": {
+        "name": "Maple Lactone (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "80-71-7": 100.0
+        }
+    },
+    "maple lactone (powder) from simplescentsdiy": {
+        "name": "Maple Lactone (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "80-71-7": 100.0
+        }
+    },
+    "8F3094004210": {
+        "name": "Maple Lactone 10 % in DPG from SimpleScentsDIY",
+        "constituents": {
+            "80-71-7": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "maple lactone 10 % in dpg from simplescentsdiy": {
+        "name": "Maple Lactone 10 % in DPG from SimpleScentsDIY",
+        "constituents": {
+            "80-71-7": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "8F3094001779": {
+        "name": "Mayol from SimpleScentsDIY",
+        "constituents": {
+            "13828-37-0": 100.0
+        }
+    },
+    "mayol from simplescentsdiy": {
+        "name": "Mayol from SimpleScentsDIY",
+        "constituents": {
+            "13828-37-0": 100.0
+        }
+    },
+    "8F3094001286": {
+        "name": "Melonal 50% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "106-72-9": 66.66666666666666,
+            "25265-71-8": 33.33333333333333
+        }
+    },
+    "melonal 50% in dpg from simplescentsdiy": {
+        "name": "Melonal 50% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "106-72-9": 66.66666666666666,
+            "25265-71-8": 33.33333333333333
+        }
+    },
+    "8F3094001296": {
+        "name": "Methyl Anthranilate from SimpleScentsDIY",
+        "constituents": {
+            "134-20-3": 100.0
+        }
+    },
+    "methyl anthranilate from simplescentsdiy": {
+        "name": "Methyl Anthranilate from SimpleScentsDIY",
+        "constituents": {
+            "134-20-3": 100.0
+        }
+    },
+    "8F3094001774": {
+        "name": "Methyl Benzoate from SimpleScentsDIY",
+        "constituents": {
+            "93-58-3": 100.0
+        }
+    },
+    "methyl benzoate from simplescentsdiy": {
+        "name": "Methyl Benzoate from SimpleScentsDIY",
+        "constituents": {
+            "93-58-3": 100.0
+        }
+    },
+    "8F3094001823": {
+        "name": "Methyl Ionone Pure from SimpleScentsDIY",
+        "constituents": {
+            "127-51-5": 100.0
+        }
+    },
+    "methyl ionone pure from simplescentsdiy": {
+        "name": "Methyl Ionone Pure from SimpleScentsDIY",
+        "constituents": {
+            "127-51-5": 100.0
+        }
+    },
+    "8F3094001829": {
+        "name": "Methyl Octine Carbonate from SimpleScentsDIY",
+        "constituents": {
+            "111-80-8": 100.0
+        }
+    },
+    "methyl octine carbonate from simplescentsdiy": {
+        "name": "Methyl Octine Carbonate from SimpleScentsDIY",
+        "constituents": {
+            "111-80-8": 100.0
+        }
+    },
+    "8F3094001757": {
+        "name": "Methyl Pamplemousse, Amarocite from SimpleScentsDIY",
+        "constituents": {
+            "67674-46-8": 100.0
+        }
+    },
+    "methyl pamplemousse, amarocite from simplescentsdiy": {
+        "name": "Methyl Pamplemousse, Amarocite from SimpleScentsDIY",
+        "constituents": {
+            "67674-46-8": 100.0
+        }
+    },
+    "8F3094005313": {
+        "name": "Muscenone from SimpleScentsDIY",
+        "constituents": {
+            "82356-51-2": 100.0
+        }
+    },
+    "muscenone from simplescentsdiy": {
+        "name": "Muscenone from SimpleScentsDIY",
+        "constituents": {
+            "82356-51-2": 100.0
+        }
+    },
+    "8F3094001708": {
+        "name": "Muscone from SimpleScentsDIY",
+        "constituents": {
+            "541-91-3": 100.0
+        }
+    },
+    "muscone from simplescentsdiy": {
+        "name": "Muscone from SimpleScentsDIY",
+        "constituents": {
+            "541-91-3": 100.0
+        }
+    },
+    "8F3094001552": {
+        "name": "Natural B-Pinene from SimpleScentsDIY",
+        "constituents": {
+            "127-91-3": 100.0
+        }
+    },
+    "natural b-pinene from simplescentsdiy": {
+        "name": "Natural B-Pinene from SimpleScentsDIY",
+        "constituents": {
+            "127-91-3": 100.0
+        }
+    },
+    "8F3094001294": {
+        "name": "Nerol from SimpleScentsDIY",
+        "constituents": {
+            "106-25-2": 100.0
+        }
+    },
+    "nerol from simplescentsdiy": {
+        "name": "Nerol from SimpleScentsDIY",
+        "constituents": {
+            "106-25-2": 100.0
+        }
+    },
+    "8F3094005322": {
+        "name": "Nerolidol from SimpleScentsDIY",
+        "constituents": {
+            "7212-44-4": 100.0
+        }
+    },
+    "nerolidol from simplescentsdiy": {
+        "name": "Nerolidol from SimpleScentsDIY",
+        "constituents": {
+            "7212-44-4": 100.0
+        }
+    },
+    "8F3094001780": {
+        "name": "Neroline Bromelia (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "93-18-5": 100.0
+        }
+    },
+    "neroline bromelia (powder) from simplescentsdiy": {
+        "name": "Neroline Bromelia (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "93-18-5": 100.0
+        }
+    },
+    "8F3094001767": {
+        "name": "Neryl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "0141-12-8": 100.0
+        }
+    },
+    "neryl acetate from simplescentsdiy": {
+        "name": "Neryl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "0141-12-8": 100.0
+        }
+    },
+    "8F3094004164": {
+        "name": "Oakmoss IFRA 10% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "90028-68-5": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "oakmoss ifra 10% in dpg from simplescentsdiy": {
+        "name": "Oakmoss IFRA 10% in DPG from SimpleScentsDIY",
+        "constituents": {
+            "90028-68-5": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "8F3094005321": {
+        "name": "Ocimene from SimpleScentsDIY",
+        "constituents": {
+            "13877-91-3": 100.0
+        }
+    },
+    "ocimene from simplescentsdiy": {
+        "name": "Ocimene from SimpleScentsDIY",
+        "constituents": {
+            "13877-91-3": 100.0
+        }
+    },
+    "8F3094005338": {
+        "name": "Octahydrocoumarin from SimpleScentsDIY",
+        "constituents": {
+            "4430-31-3": 100.0
+        }
+    },
+    "octahydrocoumarin from simplescentsdiy": {
+        "name": "Octahydrocoumarin from SimpleScentsDIY",
+        "constituents": {
+            "4430-31-3": 100.0
+        }
+    },
+    "8F3094004202": {
+        "name": "Oranger Crystals (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "93-08-3": 100.0
+        }
+    },
+    "oranger crystals (powder) from simplescentsdiy": {
+        "name": "Oranger Crystals (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "93-08-3": 100.0
+        }
+    },
+    "8F3094004203": {
+        "name": "Oranger Crystals 10 % in DPG from SimpleScentsDIY",
+        "constituents": {
+            "93-08-3": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "oranger crystals 10 % in dpg from simplescentsdiy": {
+        "name": "Oranger Crystals 10 % in DPG from SimpleScentsDIY",
+        "constituents": {
+            "93-08-3": 52.63157894736842,
+            "25265-71-8": 47.368421052631575
+        }
+    },
+    "8F3094001836": {
+        "name": "Orivone from SimpleScentsDIY",
+        "constituents": {
+            "16587-71-6": 100.0
+        }
+    },
+    "orivone from simplescentsdiy": {
+        "name": "Orivone from SimpleScentsDIY",
+        "constituents": {
+            "16587-71-6": 100.0
+        }
+    },
+    "8F3094001783": {
+        "name": "Para-Cresol from SimpleScentsDIY",
+        "constituents": {
+            "106-44-5": 100.0
+        }
+    },
+    "para-cresol from simplescentsdiy": {
+        "name": "Para-Cresol from SimpleScentsDIY",
+        "constituents": {
+            "106-44-5": 100.0
+        }
+    },
+    "8F3094001782": {
+        "name": "Patchone (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "98-52-2": 100.0
+        }
+    },
+    "patchone (powder) from simplescentsdiy": {
+        "name": "Patchone (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "98-52-2": 100.0
+        }
+    },
+    "8F3094001707": {
+        "name": "Peonile from SimpleScentsDIY",
+        "constituents": {
+            "10461-98-0": 100.0
+        }
+    },
+    "peonile from simplescentsdiy": {
+        "name": "Peonile from SimpleScentsDIY",
+        "constituents": {
+            "10461-98-0": 100.0
+        }
+    },
+    "8F3094001824": {
+        "name": "Peranat from SimpleScentsDIY",
+        "constituents": {
+            "90397-38-9": 100.0
+        }
+    },
+    "peranat from simplescentsdiy": {
+        "name": "Peranat from SimpleScentsDIY",
+        "constituents": {
+            "90397-38-9": 100.0
+        }
+    },
+    "8F3094004213": {
+        "name": "Phenyl Ethyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "103-45-7": 100.0
+        }
+    },
+    "phenyl ethyl acetate from simplescentsdiy": {
+        "name": "Phenyl Ethyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "103-45-7": 100.0
+        }
+    },
+    "8F3094001283": {
+        "name": "Phenyl Ethyl Alcohol from SimpleScentsDIY",
+        "constituents": {
+            "60-12-8": 100.0
+        }
+    },
+    "phenyl ethyl alcohol from simplescentsdiy": {
+        "name": "Phenyl Ethyl Alcohol from SimpleScentsDIY",
+        "constituents": {
+            "60-12-8": 100.0
+        }
+    },
+    "8F3094001565": {
+        "name": "Raspberry Ketone (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "5471-51-2": 100.0
+        }
+    },
+    "raspberry ketone (powder) from simplescentsdiy": {
+        "name": "Raspberry Ketone (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "5471-51-2": 100.0
+        }
+    },
+    "8F3094001785": {
+        "name": "Rhubafuran from SimpleScentsDIY",
+        "constituents": {
+            "82461-14-1": 100.0
+        }
+    },
+    "rhubafuran from simplescentsdiy": {
+        "name": "Rhubafuran from SimpleScentsDIY",
+        "constituents": {
+            "82461-14-1": 100.0
+        }
+    },
+    "8F3094001888": {
+        "name": "Rhubofix from SimpleScentsDIY",
+        "constituents": {
+            "41816-03-09": 100.0
+        }
+    },
+    "rhubofix from simplescentsdiy": {
+        "name": "Rhubofix from SimpleScentsDIY",
+        "constituents": {
+            "41816-03-09": 100.0
+        }
+    },
+    "8F3094001902": {
+        "name": "Romandolide from SimpleScentsDIY",
+        "constituents": {
+            "236391-76-7": 100.0
+        }
+    },
+    "romandolide from simplescentsdiy": {
+        "name": "Romandolide from SimpleScentsDIY",
+        "constituents": {
+            "236391-76-7": 100.0
+        }
+    },
+    "8F3094001786": {
+        "name": "Rosafix (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "90-17-5": 100.0
+        }
+    },
+    "rosafix (powder) from simplescentsdiy": {
+        "name": "Rosafix (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "90-17-5": 100.0
+        }
+    },
+    "8F3094001549": {
+        "name": "Rose Oxide from SimpleScentsDIY",
+        "constituents": {
+            "16409-43-1": 100.0
+        }
+    },
+    "rose oxide from simplescentsdiy": {
+        "name": "Rose Oxide from SimpleScentsDIY",
+        "constituents": {
+            "16409-43-1": 100.0
+        }
+    },
+    "8F3094001649": {
+        "name": "Safranal from SimpleScentsDIY",
+        "constituents": {
+            "116-26-7": 100.0
+        }
+    },
+    "safranal from simplescentsdiy": {
+        "name": "Safranal from SimpleScentsDIY",
+        "constituents": {
+            "116-26-7": 100.0
+        }
+    },
+    "8F3094001548": {
+        "name": "Sandalore from SimpleScentsDIY",
+        "constituents": {
+            "65113-99-7": 100.0
+        }
+    },
+    "sandalore from simplescentsdiy": {
+        "name": "Sandalore from SimpleScentsDIY",
+        "constituents": {
+            "65113-99-7": 100.0
+        }
+    },
+    "8F3094001756": {
+        "name": "Sandela 85 from SimpleScentsDIY",
+        "constituents": {
+            "3407-42-9": 100.0
+        }
+    },
+    "sandela 85 from simplescentsdiy": {
+        "name": "Sandela 85 from SimpleScentsDIY",
+        "constituents": {
+            "3407-42-9": 100.0
+        }
+    },
+    "8F3094001889": {
+        "name": "Scentenal from SimpleScentsDIY",
+        "constituents": {
+            "86803-90-9": 100.0
+        }
+    },
+    "scentenal from simplescentsdiy": {
+        "name": "Scentenal from SimpleScentsDIY",
+        "constituents": {
+            "86803-90-9": 100.0
+        }
+    },
+    "8E3094000986": {
+        "name": "Siam Benzoin Resinoid 50 % In DPG from SimpleScentsDIY",
+        "constituents": {
+            "84012-39-5": 66.66666666666666,
+            "25265-71-8": 33.33333333333333
+        }
+    },
+    "siam benzoin resinoid 50 % in dpg from simplescentsdiy": {
+        "name": "Siam Benzoin Resinoid 50 % In DPG from SimpleScentsDIY",
+        "constituents": {
+            "84012-39-5": 66.66666666666666,
+            "25265-71-8": 33.33333333333333
+        }
+    },
+    "8F3094005314": {
+        "name": "Silvanone Supra from SimpleScentsDIY",
+        "constituents": {
+            "109-29-5": 100.0
+        }
+    },
+    "silvanone supra from simplescentsdiy": {
+        "name": "Silvanone Supra from SimpleScentsDIY",
+        "constituents": {
+            "109-29-5": 100.0
+        }
+    },
+    "8F3094001706": {
+        "name": "Stemone from SimpleScentsDIY",
+        "constituents": {
+            "22457-23-4": 100.0
+        }
+    },
+    "stemone from simplescentsdiy": {
+        "name": "Stemone from SimpleScentsDIY",
+        "constituents": {
+            "22457-23-4": 100.0
+        }
+    },
+    "8F3094004196": {
+        "name": "Styralyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "93-92-5": 100.0
+        }
+    },
+    "styralyl acetate from simplescentsdiy": {
+        "name": "Styralyl Acetate from SimpleScentsDIY",
+        "constituents": {
+            "93-92-5": 100.0
+        }
+    },
+    "8F3094001827": {
+        "name": "Sulfurol (Milky) from SimpleScentsDIY",
+        "constituents": {
+            "137-00-8": 100.0
+        }
+    },
+    "sulfurol (milky) from simplescentsdiy": {
+        "name": "Sulfurol (Milky) from SimpleScentsDIY",
+        "constituents": {
+            "137-00-8": 100.0
+        }
+    },
+    "8F3094005315": {
+        "name": "Terpineol from SimpleScentsDIY",
+        "constituents": {
+            "8000-41-7": 100.0
+        }
+    },
+    "terpineol from simplescentsdiy": {
+        "name": "Terpineol from SimpleScentsDIY",
+        "constituents": {
+            "8000-41-7": 100.0
+        }
+    },
+    "8F3094001702": {
+        "name": "Timberol from SimpleScentsDIY",
+        "constituents": {
+            "70788-30-6": 100.0
+        }
+    },
+    "timberol from simplescentsdiy": {
+        "name": "Timberol from SimpleScentsDIY",
+        "constituents": {
+            "70788-30-6": 100.0
+        }
+    },
+    "8F3094001788": {
+        "name": "Trifernal from SimpleScentsDIY",
+        "constituents": {
+            "16251-77-7": 100.0
+        }
+    },
+    "trifernal from simplescentsdiy": {
+        "name": "Trifernal from SimpleScentsDIY",
+        "constituents": {
+            "16251-77-7": 100.0
+        }
+    },
+    "8F3094001650": {
+        "name": "Triplal from SimpleScentsDIY",
+        "constituents": {
+            "68039-49-6": 100.0
+        }
+    },
+    "triplal from simplescentsdiy": {
+        "name": "Triplal from SimpleScentsDIY",
+        "constituents": {
+            "68039-49-6": 100.0
+        }
+    },
+    "8F3094005336": {
+        "name": "Ultravanil 80% In DPG from SimpleScentsDIY",
+        "constituents": {
+            "2563-07-07": 83.33333333333334,
+            "25265-71-8": 16.666666666666668
+        }
+    },
+    "ultravanil 80% in dpg from simplescentsdiy": {
+        "name": "Ultravanil 80% In DPG from SimpleScentsDIY",
+        "constituents": {
+            "2563-07-07": 83.33333333333334,
+            "25265-71-8": 16.666666666666668
+        }
+    },
+    "8F3094001651": {
+        "name": "Undecavertol from SimpleScentsDIY",
+        "constituents": {
+            "81782-77-6": 100.0
+        }
+    },
+    "undecavertol from simplescentsdiy": {
+        "name": "Undecavertol from SimpleScentsDIY",
+        "constituents": {
+            "81782-77-6": 100.0
+        }
+    },
+    "8F3094004217": {
+        "name": "Vanillin (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "121-33-5": 100.0
+        }
+    },
+    "vanillin (powder) from simplescentsdiy": {
+        "name": "Vanillin (Powder) from SimpleScentsDIY",
+        "constituents": {
+            "121-33-5": 100.0
+        }
+    },
+    "8F3094001790": {
+        "name": "Veloutone from SimpleScentsDIY",
+        "constituents": {
+            "65443-14-3": 100.0
+        }
+    },
+    "veloutone from simplescentsdiy": {
+        "name": "Veloutone from SimpleScentsDIY",
+        "constituents": {
+            "65443-14-3": 100.0
+        }
+    },
+    "8F3094001482": {
+        "name": "Verdox from SimpleScentsDIY",
+        "constituents": {
+            "88-41-5": 100.0
+        }
+    },
+    "verdox from simplescentsdiy": {
+        "name": "Verdox from SimpleScentsDIY",
+        "constituents": {
+            "88-41-5": 100.0
+        }
+    },
+    "8F3094001837": {
+        "name": "Vertenex from SimpleScentsDIY",
+        "constituents": {
+            "32210-23-4": 100.0
+        }
+    },
+    "vertenex from simplescentsdiy": {
+        "name": "Vertenex from SimpleScentsDIY",
+        "constituents": {
+            "32210-23-4": 100.0
+        }
+    },
+    "8F3094001835": {
+        "name": "Vertofix from SimpleScentsDIY",
+        "constituents": {
+            "32388-55-9": 100.0
+        }
+    },
+    "vertofix from simplescentsdiy": {
+        "name": "Vertofix from SimpleScentsDIY",
+        "constituents": {
+            "32388-55-9": 100.0
+        }
+    },
+    "8F3094004192": {
+        "name": "Vetikon from SimpleScentsDIY",
+        "constituents": {
+            "7403-42-1": 100.0
+        }
+    },
+    "vetikon from simplescentsdiy": {
+        "name": "Vetikon from SimpleScentsDIY",
+        "constituents": {
+            "7403-42-1": 100.0
+        }
+    },
+    "8F3094001648": {
+        "name": "Vetival from SimpleScentsDIY",
+        "constituents": {
+            "4927-39-3": 100.0
+        }
+    },
+    "vetival from simplescentsdiy": {
+        "name": "Vetival from SimpleScentsDIY",
+        "constituents": {
+            "4927-39-3": 100.0
+        }
+    },
+    "8F3094005335": {
+        "name": "Violiff from SimpleScentsDIY",
+        "constituents": {
+            "87731-18-8": 100.0
+        }
+    },
+    "violiff from simplescentsdiy": {
+        "name": "Violiff from SimpleScentsDIY",
+        "constituents": {
+            "87731-18-8": 100.0
+        }
+    },
+    "8F3094001555": {
+        "name": "Viridine (PADMA) from SimpleScentsDIY",
+        "constituents": {
+            "101-48-4": 100.0
+        }
+    },
+    "viridine (padma) from simplescentsdiy": {
+        "name": "Viridine (PADMA) from SimpleScentsDIY",
+        "constituents": {
+            "101-48-4": 100.0
+        }
+    },
+    "8B23094000943": {
+        "name": "\u0e44\u0e14\u0e42\u0e1e\u0e23\u0e44\u0e1e\u0e25\u0e35\u0e19 \u0e44\u0e01\u0e25\u0e04\u0e2d\u0e25 / Dipropylene Glycol / DPG from SimpleScentsDIY",
+        "constituents": {
+            "25265-71-8": 100.0
+        }
+    },
+    "\u0e44\u0e14\u0e42\u0e1e\u0e23\u0e44\u0e1e\u0e25\u0e35\u0e19 \u0e44\u0e01\u0e25\u0e04\u0e2d\u0e25 / dipropylene glycol / dpg from simplescentsdiy": {
+        "name": "\u0e44\u0e14\u0e42\u0e1e\u0e23\u0e44\u0e1e\u0e25\u0e35\u0e19 \u0e44\u0e01\u0e25\u0e04\u0e2d\u0e25 / Dipropylene Glycol / DPG from SimpleScentsDIY",
+        "constituents": {
+            "25265-71-8": 100.0
+        }
+    },
+    "8B3094000972": {
+        "name": "MMB (3-methoxy-3-methyl-1-butanol) 1 kg from SimpleScentsDIY",
+        "constituents": {
+            "56539-66-3": 100.0
+        }
+    },
+    "mmb (3-methoxy-3-methyl-1-butanol) 1 kg from simplescentsdiy": {
+        "name": "MMB (3-methoxy-3-methyl-1-butanol) 1 kg from SimpleScentsDIY",
+        "constituents": {
+            "56539-66-3": 100.0
+        }
+    },
+    "8B23094000189-1": {
+        "name": "\u0e42\u0e1e\u0e23\u0e44\u0e1e\u0e25\u0e35\u0e19 \u0e44\u0e01\u0e25\u0e04\u0e2d\u0e25 (Propylene Glycol) from SimpleScentsDIY",
+        "constituents": {
+            "57-55-6": 100.0
+        }
+    },
+    "\u0e42\u0e1e\u0e23\u0e44\u0e1e\u0e25\u0e35\u0e19 \u0e44\u0e01\u0e25\u0e04\u0e2d\u0e25 (propylene glycol) from simplescentsdiy": {
+        "name": "\u0e42\u0e1e\u0e23\u0e44\u0e1e\u0e25\u0e35\u0e19 \u0e44\u0e01\u0e25\u0e04\u0e2d\u0e25 (Propylene Glycol) from SimpleScentsDIY",
+        "constituents": {
+            "57-55-6": 100.0
         }
     }
 }
