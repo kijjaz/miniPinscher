@@ -431,8 +431,7 @@ if formula and st.button("🚀 Calculate Compliance", type="primary"):
             with c3:
                 date_str = st.text_input("Date", value=datetime.date.today().strftime("%Y-%m-%d"))
                 
-            if st.button("Generate PDF Certificate") or True: # Use True to show always, or remove line. 
-            # Better approach: Just show the download button directly.
+            # Generate automatically (always show download button)
             pdf_bytes = create_ifra_pdf(prod_name, client_name, date_str, dosage, data)
             st.download_button(
                 label="📄 Download Certificate (PDF)",
