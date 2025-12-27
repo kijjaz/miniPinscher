@@ -30,7 +30,7 @@ def extract_standards():
             cat4_limit = 100.0
             
         try:
-            val = float(row[23])
+            val = float(row[22]) # CORRECTED: Column 22 is Category 4 (Fine Fragrance)
             if pd.isna(val): limit = None
             else: limit = val
         except:
