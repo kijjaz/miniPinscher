@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Data Files (Keep optimized ones, ignore raw excel ones)
+*.xlsx
+*.pdf
+!DB_User_Materials_Optimized.xlsx
+!ifra-51st-amendment-ifra-standards-overview.xlsx
+# (Actually, for deployment we only need the .json files, 
+# but keeping the optimized Excel helps with future database refreshes)
+
+# IFRA Large Raw Data
+ifra-51st-amendment-annex-on-contributions-from-other-sources.xlsx
+
+# Local Test Files
+complex_perfume_formula.csv
+example_formula.csv
+
+# System
+.DS_Store

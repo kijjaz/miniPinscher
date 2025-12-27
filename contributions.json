@@ -1,0 +1,6117 @@
+{
+    "8014-71-9": {
+        "name": "Balm oil",
+        "constituents": [
+            {
+                "cas": "72203-98-6",
+                "name": "(E) 3,7-Dimethyl-3,6-octadienal (iso-Geranial)",
+                "percentage": 0.85
+            },
+            {
+                "cas": "72203-97-5",
+                "name": "(Z) 3,7-Dimethyl-3,6-octadienal (iso-Neral)",
+                "percentage": 0.4
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 6.88
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 1.35
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 7.49
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 29.6
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 3.79
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 16.68
+            }
+        ]
+    },
+    "8007-02-1": {
+        "name": "Lemongrass oil, East Indian",
+        "constituents": [
+            {
+                "cas": "72203-98-6",
+                "name": "(E) 3,7-Dimethyl-3,6-octadienal (iso-Geranial)",
+                "percentage": 1.3
+            },
+            {
+                "cas": "72203-98-6",
+                "name": "(E) 3,7-Dimethyl-3,6-octadienal (iso-Geranial)",
+                "percentage": 1.2
+            },
+            {
+                "cas": "72203-97-5",
+                "name": "(Z) 3,7-Dimethyl-3,6-octadienal (iso-Neral)",
+                "percentage": 0.78
+            },
+            {
+                "cas": "72203-97-5",
+                "name": "(Z) 3,7-Dimethyl-3,6-octadienal (iso-Neral)",
+                "percentage": 1.0
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 73.0
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.51
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.3
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.23
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.25
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.08
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 41.42
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 5.25
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 2.3
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.47
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.05
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 30.54
+            }
+        ]
+    },
+    "68855-99-2": {
+        "name": "Litsea cubeba oil",
+        "constituents": [
+            {
+                "cas": "72203-98-6",
+                "name": "(E) 3,7-Dimethyl-3,6-octadienal (iso-Geranial)",
+                "percentage": 1.0
+            },
+            {
+                "cas": "72203-97-5",
+                "name": "(Z) 3,7-Dimethyl-3,6-octadienal (iso-Neral)",
+                "percentage": 0.4
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 69.0
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 1.1
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.15
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.1
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.2
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 0.05
+            }
+        ]
+    },
+    "8048-51-9": {
+        "name": "Petitgrain lemon oil",
+        "constituents": [
+            {
+                "cas": "72203-98-6",
+                "name": "(E) 3,7-Dimethyl-3,6-octadienal (iso-Geranial)",
+                "percentage": 0.5
+            },
+            {
+                "cas": "72203-97-5",
+                "name": "(Z) 3,7-Dimethyl-3,6-octadienal (iso-Neral)",
+                "percentage": 0.2
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 23.0
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 1.0
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 2.0
+            }
+        ]
+    },
+    "8006-78-8": {
+        "name": "Bay leaf, West Indian, oil",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.3
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 51.0
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.25
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 2.0
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "917-841-2": {
+        "name": "Erospicata oil, Mentha spicata 'Erospicata'",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.06
+            },
+            {
+                "cas": "35154-45-1",
+                "name": "cis-3-Hexenyl isovalerate",
+                "percentage": 0.16
+            },
+            {
+                "cas": "6728-26-3",
+                "name": "Hexen-2-al",
+                "percentage": 0.07
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 67.0
+            }
+        ]
+    },
+    "8022-15-9": {
+        "name": "Lavandin abrialis oil",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.2
+            },
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 1.09
+            },
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.3
+            },
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.3
+            },
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.02
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 0.01
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 0.62
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 0.37
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 0.01
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.64
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 1.91
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 1.91
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.35
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 0.2
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 1.77
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 1.21
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.08
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "617-009-6": {
+        "name": "Lavandin grosso absolute",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.14
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 2.0
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.7
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 4.09
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.04
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "93685-88-2": {
+        "name": "Lavandin super oil",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.3
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.5
+            }
+        ]
+    },
+    "8000-28-0": {
+        "name": "Lavender absolute",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.31
+            },
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.5
+            },
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 1.04
+            },
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.01
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 3.8
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 8.0
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 5.98
+            },
+            {
+                "cas": "122-03-2",
+                "name": "Cuminaldehyde",
+                "percentage": 0.06
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.48
+            }
+        ]
+    },
+    "93165-50-5": {
+        "name": "Lavender oil dentata",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.0
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 0.35
+            },
+            {
+                "cas": "122-03-2",
+                "name": "Cuminaldehyde",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.0
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.3
+            },
+            {
+                "cas": "536-60-7",
+                "name": "p-Isopropylbenzyl alcohol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "68917-15-7": {
+        "name": "Mentha citrata oil",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.25
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.03
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.3
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.17
+            }
+        ]
+    },
+    "8008-79-5": {
+        "name": "Spearmint oil",
+        "constituents": [
+            {
+                "cas": "2442-10-6",
+                "name": "1-Octen-3-yl acetate",
+                "percentage": 0.06
+            },
+            {
+                "cas": "6728-26-3",
+                "name": "Hexen-2-al",
+                "percentage": 0.02
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 66.07
+            }
+        ]
+    },
+    "8007-70-3": {
+        "name": "Anise seed oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.5
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 2.39
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.43
+            }
+        ]
+    },
+    "8016-63-5": {
+        "name": "Clary sage absolute",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.04
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.19
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.2
+            }
+        ]
+    },
+    "68917-29-3": {
+        "name": "Clove leaf oil terpenes",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.01
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.77
+            }
+        ]
+    },
+    "8008-52-4": {
+        "name": "Coriander herb oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.02
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.8
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.6
+            }
+        ]
+    },
+    "8016-20-4": {
+        "name": "Grapefruit oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.03
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.07
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.1
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.06
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.06
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.04
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.04
+            }
+        ]
+    },
+    "103798-23-6": {
+        "name": "Jasmine sambac absolute",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.1
+            },
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.01
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 4.2
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 4.2
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.75
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.75
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 1.2
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 1.2
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.2
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.15
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.15
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.15
+            },
+            {
+                "cas": "41270-80-8",
+                "name": "Methyl N-formylanthranilate",
+                "percentage": 0.05
+            },
+            {
+                "cas": "41270-80-8",
+                "name": "Methyl N-formylanthranilate",
+                "percentage": 0.05
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 0.6
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 0.6
+            }
+        ]
+    },
+    "8007-48-5": {
+        "name": "Laurel leaf oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.03
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.16
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.33
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.05
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 3.22
+            }
+        ]
+    },
+    "8014-17-3": {
+        "name": "Petitgrain bigarade oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.09
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.65
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.14
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.05
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.05
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.18
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 2.4
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 2.77
+            },
+            {
+                "cas": "85-91-6",
+                "name": "Methyl N-methylanthranilate",
+                "percentage": 50.13
+            },
+            {
+                "cas": "85-91-6",
+                "name": "Methyl N-methylanthranilate",
+                "percentage": 0.06
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.08
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 0.03
+            }
+        ]
+    },
+    "8023-99-2": {
+        "name": "Pine Scotch, oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.02
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.09
+            }
+        ]
+    },
+    "8007-01-0": {
+        "name": "Rose oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.02
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.04
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.07
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.51
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.55
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.02
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 32.5
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 1.2
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.14
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 1.06
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 17.7
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 2.0
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.04
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.79
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 1.37
+            }
+        ]
+    },
+    "8016-78-2": {
+        "name": "Spike lavender oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.01
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "68952-43-2": {
+        "name": "Star anise oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.01
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 3.3
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8016-88-4": {
+        "name": "Tarragon oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.01
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 0.07
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 80.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.6
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.3
+            }
+        ]
+    },
+    "8024-08-6": {
+        "name": "Violet leaf absolute",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.02
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8008-93-3": {
+        "name": "Wormwood oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.06
+            },
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 3.0
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 42.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8022-07-9": {
+        "name": "Yarrow oil",
+        "constituents": [
+            {
+                "cas": "505-57-7",
+                "name": "2-Hexenal",
+                "percentage": 0.02
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 2.0
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.6
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8001-88-5": {
+        "name": "Birch tar oil, rectified",
+        "constituents": [
+            {
+                "cas": "623-36-9",
+                "name": "2-Methyl-2-pentenal",
+                "percentage": 0.05
+            },
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 1.8
+            }
+        ]
+    },
+    "8008-56-8": {
+        "name": "Lemon oil, expressed",
+        "constituents": [
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 0.05
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 2.03
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 3.5
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.06
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.07
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.1
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 1.36
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.09
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.07
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.81
+            }
+        ]
+    },
+    "8008-26-2": {
+        "name": "Lime oil, expressed",
+        "constituents": [
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 0.21
+            },
+            {
+                "cas": "531-59-9",
+                "name": "7-Methoxycoumarin",
+                "percentage": 0.28
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.5
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 1.39
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.32
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 2.6
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 2.45
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.15
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.12
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.26
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 1.7
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 1.61
+            },
+            {
+                "cas": "1134-95-8",
+                "name": "trans-Carvyl acetate",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 0.02
+            }
+        ]
+    },
+    "84775-62-2": {
+        "name": "Horseradish oil",
+        "constituents": [
+            {
+                "cas": "57-06-7",
+                "name": "Allyl isothiocyanate",
+                "percentage": 45.0
+            }
+        ]
+    },
+    "8015-64-3": {
+        "name": "Angelica seed oil",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-02-5",
+                "name": "Cyclopentadecanolide/omega-Pentadecalatone",
+                "percentage": 1.6
+            },
+            {
+                "cas": "106-02-5",
+                "name": "Cyclopentadecanolide/omega-Pentadecalatone",
+                "percentage": 0.29
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.5
+            }
+        ]
+    },
+    "8057-65-6": {
+        "name": "Arnica absolute",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.15
+            },
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.6
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 1.2
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 5.0
+            }
+        ]
+    },
+    "68991-21-9": {
+        "name": "Baccharis dracunculifolia oil",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 1.4
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8015-73-4": {
+        "name": "Basil oil, chemotype linalool",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.1
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 81.87
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.95
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 34.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.34
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 7.9
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.07
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.49
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.39
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.02
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "68188-03-4": {
+        "name": "Cabreuva oil",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 2.0
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8015-88-1": {
+        "name": "Carrot seed oil",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.28
+            },
+            {
+                "cas": "5273-86-9",
+                "name": "cis-Asarone/beta-Asarone",
+                "percentage": 0.05
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 2.18
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.03
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.43
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.05
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.01
+            },
+            {
+                "cas": "536-60-7",
+                "name": "p-Isopropylbenzyl alcohol",
+                "percentage": 0.06
+            },
+            {
+                "cas": "2883-98-9",
+                "name": "trans-Asarone/alpha-Asarone",
+                "percentage": 0.19
+            }
+        ]
+    },
+    "1159574-01-2": {
+        "name": "Cedarwood oil, Chinese",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.6
+            },
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 19.1
+            },
+            {
+                "cas": "546-28-1",
+                "name": "beta-Cedrene",
+                "percentage": 6.0
+            }
+        ]
+    },
+    "68990-83-0": {
+        "name": "Cedarwood oil, Texas",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.15
+            },
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 12.0
+            },
+            {
+                "cas": "546-28-1",
+                "name": "beta-Cedrene",
+                "percentage": 3.0
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.4
+            }
+        ]
+    },
+    "8000-27-9": {
+        "name": "Cedarwood oil, Virginian",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.6
+            },
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 24.3
+            },
+            {
+                "cas": "546-28-1",
+                "name": "beta-Cedrene",
+                "percentage": 5.9
+            }
+        ]
+    },
+    "8002-66-2": {
+        "name": "Chamomile flower oil, blue",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 4.0
+            }
+        ]
+    },
+    "8021-29-2": {
+        "name": "Fir needle oil, Siberian",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.09
+            }
+        ]
+    },
+    "68991-39-9": {
+        "name": "Mastic oil",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.08
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.05
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.02
+            }
+        ]
+    },
+    "921202-04-2": {
+        "name": "Populus nigra absolute",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8006-87-9": {
+        "name": "Sandalwood oil",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.22
+            }
+        ]
+    },
+    "8024-35-9": {
+        "name": "Sandalwood oil, Australian",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 3.02
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 8.38
+            }
+        ]
+    },
+    "91845-48-6": {
+        "name": "Sandalwood oil, New Caledonian",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.47
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 0.85
+            }
+        ]
+    },
+    "949495-68-5": {
+        "name": "Schinus terebenthifolius CO2 extract",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.25
+            }
+        ]
+    },
+    "8024-37-1": {
+        "name": "Turmeric oil",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "68991-32-2": {
+        "name": "Zdravetz oil",
+        "constituents": [
+            {
+                "cas": "515-69-5",
+                "name": "alpha-Bisabolol",
+                "percentage": 2.0
+            }
+        ]
+    },
+    "68606-83-7": {
+        "name": "Cananga oil",
+        "constituents": [
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 0.4
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 4.2
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.4
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.4
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 2.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.7
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8023-85-6": {
+        "name": "Cedarwood oil, Atlas",
+        "constituents": [
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 1.5
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.6
+            }
+        ]
+    },
+    "8013-86-3": {
+        "name": "Cypress oil",
+        "constituents": [
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 0.36
+            },
+            {
+                "cas": "546-28-1",
+                "name": "beta-Cedrene",
+                "percentage": 0.38
+            }
+        ]
+    },
+    "8023-95-8": {
+        "name": "Helichrysum absolute",
+        "constituents": [
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 0.08
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.05
+            }
+        ]
+    },
+    "8002-68-4": {
+        "name": "Juniper berry oil",
+        "constituents": [
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 0.4
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.05
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.19
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8000-26-8": {
+        "name": "Pine needle, dwarf, oil",
+        "constituents": [
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 0.25
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.15
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 3.71
+            }
+        ]
+    },
+    "8024-12-2": {
+        "name": "Verbena absolute",
+        "constituents": [
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 0.5
+            },
+            {
+                "cas": "546-28-1",
+                "name": "beta-Cedrene",
+                "percentage": 0.1
+            },
+            {
+                "cas": "5273-86-9",
+                "name": "cis-Asarone/beta-Asarone",
+                "percentage": 0.01
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 25.6
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.45
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.55
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 4.1
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "2883-98-9",
+                "name": "trans-Asarone/alpha-Asarone",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8016-96-4": {
+        "name": "Vetiver oil (all origins)",
+        "constituents": [
+            {
+                "cas": "469-61-4",
+                "name": "alpha-Cedrene",
+                "percentage": 0.2
+            },
+            {
+                "cas": "546-28-1",
+                "name": "beta-Cedrene",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "68991-20-8": {
+        "name": "Armoise vulgaris oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 50.0
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 7.5
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "91745-71-0": {
+        "name": "Artemesia afra oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 50.0
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 10.0
+            }
+        ]
+    },
+    "84775-75-7": {
+        "name": "Artemisia herba-alba oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 39.0
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 10.0
+            }
+        ]
+    },
+    "8007-20-3": {
+        "name": "Cedar leaf oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 55.0
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 10.0
+            }
+        ]
+    },
+    "91770-83-0": {
+        "name": "Cedar leaf oil, China",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 2.3
+            }
+        ]
+    },
+    "8006-83-5": {
+        "name": "Hyssop oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 0.2
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.2
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.17
+            },
+            {
+                "cas": "6728-26-3",
+                "name": "Hexen-2-al",
+                "percentage": 0.2
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "90063-99-3": {
+        "name": "Mentha longifolia oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 7.1
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 1.0
+            },
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "8016-36-2": {
+        "name": "Olibanum oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 0.1
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.2
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.4
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.4
+            }
+        ]
+    },
+    "89957-98-2": {
+        "name": "Olibanum sacra oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 0.1
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.2
+            },
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.3
+            }
+        ]
+    },
+    "8022-56-8": {
+        "name": "Sage Dalmatian oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 25.0
+            },
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 0.01
+            },
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 7.5
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 8.0
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.02
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 2.5
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.3
+            }
+        ]
+    },
+    "84082-79-1": {
+        "name": "Sage Dalmatian oleoresin",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 7.3
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 2.7
+            }
+        ]
+    },
+    "8016-68-0": {
+        "name": "Savory summer oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 1.5
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.5
+            }
+        ]
+    },
+    "8008-80-8": {
+        "name": "Spruce oil, Black",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 0.17
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.25
+            }
+        ]
+    },
+    "8016-87-3": {
+        "name": "Tansy oil",
+        "constituents": [
+            {
+                "cas": "546-80-5",
+                "name": "alpha-Thujone",
+                "percentage": 0.5
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 71.0
+            }
+        ]
+    },
+    "8023-82-3": {
+        "name": "Cassie absolute",
+        "constituents": [
+            {
+                "cas": "105-13-5",
+                "name": "Anisyl alcohol",
+                "percentage": 0.8
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.3
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 2.7
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.05
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.03
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.03
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.06
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.0
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "8031-03-6": {
+        "name": "Mimosa absolute",
+        "constituents": [
+            {
+                "cas": "105-13-5",
+                "name": "Anisyl alcohol",
+                "percentage": 0.12
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.08
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.19
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.12
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.02
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8024-06-4": {
+        "name": "Vanilla absolute",
+        "constituents": [
+            {
+                "cas": "105-13-5",
+                "name": "Anisyl alcohol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "105-13-5",
+                "name": "Anisyl alcohol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "105-13-5",
+                "name": "Anisyl alcohol",
+                "percentage": 0.7
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.03
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.0
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.03
+            }
+        ]
+    },
+    "953789-39-4": {
+        "name": "Vanilla tahitensis absolute",
+        "constituents": [
+            {
+                "cas": "105-13-5",
+                "name": "Anisyl alcohol",
+                "percentage": 0.07
+            },
+            {
+                "cas": "105-13-5",
+                "name": "Anisyl alcohol",
+                "percentage": 0.0
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.0
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.0
+            }
+        ]
+    },
+    "8047-24-3": {
+        "name": "Vanilla tincture",
+        "constituents": [
+            {
+                "cas": "105-13-5",
+                "name": "Anisyl alcohol",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "8013-76-1": {
+        "name": "Almond oil, bitter",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 99.0
+            }
+        ]
+    },
+    "8008-98-8": {
+        "name": "Cajuput oil",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8007-80-5": {
+        "name": "Cassia  bark oil",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 1.3
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.95
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 1.0
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.08
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.06
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.1
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.0
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.37
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 78.85
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 46.23
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 79.5
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 2.85
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 3.27
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 2.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "1504-74-1",
+                "name": "o-Methoxycinnamaldehyde",
+                "percentage": 0.7
+            },
+            {
+                "cas": "1504-74-1",
+                "name": "o-Methoxycinnamaldehyde",
+                "percentage": 0.94
+            },
+            {
+                "cas": "1504-74-1",
+                "name": "o-Methoxycinnamaldehyde",
+                "percentage": 9.0
+            }
+        ]
+    },
+    "8015-91-6": {
+        "name": "Cinnamon bark CO2 extract",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.1
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.2
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.16
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 1.8
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.6
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 3.5
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 1.1
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 77.5
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 75.0
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 1.5
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 0.1
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 0.6
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 0.3
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 2.5
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 2.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 74.0
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.12
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.05
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.13
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "1504-74-1",
+                "name": "o-Methoxycinnamaldehyde",
+                "percentage": 0.5
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 0.2
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 1.2
+            }
+        ]
+    },
+    "97659-68-2": {
+        "name": "Cinnamon bark oil, Laos",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.5
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.01
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 95.0
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 3.0
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "8016-26-0": {
+        "name": "Cistus absolute",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.6
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.6
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.9
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.38
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.2
+            },
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.25
+            },
+            {
+                "cas": "97-42-7",
+                "name": "Carvyl acetate",
+                "percentage": 0.18
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.06
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.4
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.12
+            },
+            {
+                "cas": "78-59-1",
+                "name": "Isophorone",
+                "percentage": 0.2
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.6
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.05
+            }
+        ]
+    },
+    "8016-03-3": {
+        "name": "Davana oil",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8023-94-7": {
+        "name": "Hyacinth absolute",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.1
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 40.0
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 6.0
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.2
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 11.2
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 0.3
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 1.5
+            }
+        ]
+    },
+    "8022-96-6": {
+        "name": "Jasmine grandiflorum absolute",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.02
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 1.08
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 1.08
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 10.07
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 5.0
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 10.07
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.02
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.02
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.17
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.17
+            },
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 0.016
+            },
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 0.7
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.53
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.53
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.12
+            }
+        ]
+    },
+    "68917-77-1": {
+        "name": "Labdanum extract ambreine",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.8
+            }
+        ]
+    },
+    "8016-26-0; 89997-74-0, 84775-64-4": {
+        "name": "Labdanum gum",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "89997-74-0": {
+        "name": "Labdanum resinoid",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.03
+            }
+        ]
+    },
+    "8014-68-4": {
+        "name": "Niaouli oil",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "68132-21-8": {
+        "name": "Perilla oil",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.33
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.17
+            },
+            {
+                "cas": "122-03-2",
+                "name": "Cuminaldehyde",
+                "percentage": 0.24
+            },
+            {
+                "cas": "2111-75-3",
+                "name": "Perilla aldehyde",
+                "percentage": 53.78
+            }
+        ]
+    },
+    "90106-38-0": {
+        "name": "Rose absolute",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.02
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.5
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.54
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.02
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.16
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.13
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.03
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 4.02
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 4.7
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.65
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.0
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.32
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.07
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.64
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 2.7
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.43
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.08
+            }
+        ]
+    },
+    "8046-19-3": {
+        "name": "Styrax extract",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.05
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.03
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.1
+            },
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.04
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 2.5
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.15
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.07
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.02
+            },
+            {
+                "cas": "103-41-3",
+                "name": "Benzyl cinnamate",
+                "percentage": 0.17
+            },
+            {
+                "cas": "103-41-3",
+                "name": "Benzyl cinnamate",
+                "percentage": 0.15
+            },
+            {
+                "cas": "103-41-3",
+                "name": "Benzyl cinnamate",
+                "percentage": 2.1
+            },
+            {
+                "cas": "78277-23-3",
+                "name": "Benzyl trans-cinnamate",
+                "percentage": 1.0
+            },
+            {
+                "cas": "78277-23-3",
+                "name": "Benzyl trans-cinnamate",
+                "percentage": 1.75
+            },
+            {
+                "cas": "78277-23-3",
+                "name": "Benzyl trans-cinnamate",
+                "percentage": 0.93
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.82
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.25
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.8
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 1.85
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 1.5
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 1.4
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 0.05
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 0.03
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 0.1
+            },
+            {
+                "cas": "104-55-2",
+                "name": "Cinnamic aldehyde",
+                "percentage": 0.04
+            },
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 0.39
+            },
+            {
+                "cas": "106-44-5",
+                "name": "p-Cresol",
+                "percentage": 0.35
+            },
+            {
+                "cas": "5932-68-3",
+                "name": "trans-Isoeugenol",
+                "percentage": 0.03
+            }
+        ]
+    },
+    "8024-01-9": {
+        "name": "Styrax oil, pyrogenated",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Benzaldehyde",
+                "percentage": 0.1
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "106-44-5",
+                "name": "p-Cresol",
+                "percentage": 0.3
+            }
+        ]
+    },
+    "8007-00-9": {
+        "name": "Balsam absolute, Peru",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.43
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 1.57
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.17
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 32.5
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 59.17
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 14.16
+            },
+            {
+                "cas": "103-41-3",
+                "name": "Benzyl cinnamate",
+                "percentage": 9.95
+            },
+            {
+                "cas": "103-41-3",
+                "name": "Benzyl cinnamate",
+                "percentage": 16.38
+            },
+            {
+                "cas": "103-41-3",
+                "name": "Benzyl cinnamate",
+                "percentage": 9.02
+            }
+        ]
+    },
+    "8021-43-0": {
+        "name": "Carnation absolute",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 13.0
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 7.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 18.0
+            }
+        ]
+    },
+    "8006-76-6": {
+        "name": "Champaca absolute",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.64
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.53
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 1.0
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.55
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "8000-34-8": {
+        "name": "Clove bud oil terpenes",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 82.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 27.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 85.3
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 88.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.05
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.06
+            }
+        ]
+    },
+    "8024-43-9": {
+        "name": "Jasmine officinale absolute",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 3.0
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 10.0
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.2
+            },
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 0.01
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 2.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "98903-76-5": {
+        "name": "Mimosa concrete",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.04
+            }
+        ]
+    },
+    "68917-12-4": {
+        "name": "Narcissus poeticus absolute",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 2.8
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 8.9
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 1.2
+            }
+        ]
+    },
+    "8007-46-3": {
+        "name": "Thyme absolute",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.12
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.12
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.06
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.05
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.06
+            }
+        ]
+    },
+    "8024-05-3": {
+        "name": "Tuberose absolute",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 5.5
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.72
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.8
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.17
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 3.6
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 2.1
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.48
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 1.5
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 1.5
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 1.8
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 1.07
+            }
+        ]
+    },
+    "8006-81-3": {
+        "name": "Ylang ylang oil I",
+        "constituents": [
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.09
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.09
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.04
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.25
+            },
+            {
+                "cas": "100-51-6",
+                "name": "Benzyl alcohol",
+                "percentage": 0.24
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 5.86
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 7.81
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 6.23
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 6.32
+            },
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 5.73
+            },
+            {
+                "cas": "103-41-3",
+                "name": "Benzyl cinnamate",
+                "percentage": 0.03
+            },
+            {
+                "cas": "103-41-3",
+                "name": "Benzyl cinnamate",
+                "percentage": 0.02
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.05
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.02
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.02
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.02
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 2.58
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 2.36
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 2.48
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 3.11
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 3.35
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "104-54-1",
+                "name": "Cinnamic alcohol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.12
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.09
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.02
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.01
+            },
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 0.03
+            },
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 0.03
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.2
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.13
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.03
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.02
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.58
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.69
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.45
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.31
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.34
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 1.5
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 1.36
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.38
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.43
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.32
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.67
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.64
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.51
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.24
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.54
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.52
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.99
+            },
+            {
+                "cas": "93-29-8",
+                "name": "Isoeugenyl acetate",
+                "percentage": 0.07
+            },
+            {
+                "cas": "93-29-8",
+                "name": "Isoeugenyl acetate",
+                "percentage": 0.05
+            },
+            {
+                "cas": "93-29-8",
+                "name": "Isoeugenyl acetate",
+                "percentage": 0.03
+            },
+            {
+                "cas": "93-29-8",
+                "name": "Isoeugenyl acetate",
+                "percentage": 0.12
+            },
+            {
+                "cas": "93-29-8",
+                "name": "Isoeugenyl acetate",
+                "percentage": 0.12
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.04
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.04
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 1.82
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 2.35
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 1.76
+            }
+        ]
+    },
+    "616-772-2": {
+        "name": "Clove bud absolute",
+        "constituents": [
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 0.07
+            },
+            {
+                "cas": "118-58-1",
+                "name": "Benzyl salicylate",
+                "percentage": 0.04
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 69.08
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "93-29-8",
+                "name": "Isoeugenyl acetate",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "8015-77-8": {
+        "name": "Rosewood oil",
+        "constituents": [
+            {
+                "cas": "120-51-4",
+                "name": "Benzyl benzoate",
+                "percentage": 1.2
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.8
+            }
+        ]
+    },
+    "90131-21-8": {
+        "name": "Genet absolute",
+        "constituents": [
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.13
+            },
+            {
+                "cas": "85-91-6",
+                "name": "Methyl N-methylanthranilate",
+                "percentage": 0.34
+            }
+        ]
+    },
+    "94334-14-2": {
+        "name": "Karo karunde absolute",
+        "constituents": [
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 5.0
+            }
+        ]
+    },
+    "68917-19-1": {
+        "name": "Magnolia flower oil",
+        "constituents": [
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.09
+            }
+        ]
+    },
+    "8016-38-4": {
+        "name": "Orange blossoms absolute",
+        "constituents": [
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.52
+            },
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.16
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.04
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 3.72
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.49
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 2.66
+            },
+            {
+                "cas": "41270-80-8",
+                "name": "Methyl N-formylanthranilate",
+                "percentage": 0.03
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.04
+            },
+            {
+                "cas": "106-28-5",
+                "name": "trans-trans-Farnesol",
+                "percentage": 2.18
+            }
+        ]
+    },
+    "8030-28-2": {
+        "name": "Orange flower water absolute",
+        "constituents": [
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.83
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.2
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 1.08
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 6.5
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.11
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.02
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 8.84
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.45
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.85
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "72968-50-4": {
+        "name": "Orange flower, bitter, concrete",
+        "constituents": [
+            {
+                "cas": "140-29-4",
+                "name": "Benzyl cyanide",
+                "percentage": 0.31
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 1.95
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.23
+            }
+        ]
+    },
+    "68647-73-4": {
+        "name": "Tea tree oil",
+        "constituents": [
+            {
+                "cas": "546-28-1",
+                "name": "beta-Cedrene",
+                "percentage": 0.03
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.05
+            }
+        ]
+    },
+    "91770-83-1": {
+        "name": "Cedar leaf oil, China",
+        "constituents": [
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 10.0
+            }
+        ]
+    },
+    "8016-84-0": {
+        "name": "Tagetes erecta oil",
+        "constituents": [
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.5
+            }
+        ]
+    },
+    "616-989-2": {
+        "name": "Tagetes minuta oil",
+        "constituents": [
+            {
+                "cas": "471-15-8",
+                "name": "beta-Thujone",
+                "percentage": 0.5
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.43
+            }
+        ]
+    },
+    "92346-82-2": {
+        "name": "Bucchu oil, crenulata",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.19
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.19
+            }
+        ]
+    },
+    "8023-92-5": {
+        "name": "Gingergrass oil",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 4.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.04
+            },
+            {
+                "cas": "2111-75-3",
+                "name": "Perilla aldehyde",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "68917-32-8": {
+        "name": "Grapefruit oil terpenes",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.09
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.01
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "8015-01-8": {
+        "name": "Marjoram oil, sweet",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.4
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.3
+            }
+        ]
+    },
+    "90064-32-7": {
+        "name": "Nigella sativa oil",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 8.0
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 1.8
+            }
+        ]
+    },
+    "68916-04-1": {
+        "name": "Orange oil, bitter",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.05
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.05
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.03
+            },
+            {
+                "cas": "2111-75-3",
+                "name": "Perilla aldehyde",
+                "percentage": 0.02
+            }
+        ]
+    },
+    "68647-72-3;": {
+        "name": "Orange oil, sweet, terpenes",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.08
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.01
+            },
+            {
+                "cas": "2111-75-3",
+                "name": "Perilla aldehyde",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "8007-11-2": {
+        "name": "Origanum oil",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.08
+            }
+        ]
+    },
+    "8006-90-4": {
+        "name": "Peppermint oil",
+        "constituents": [
+            {
+                "cas": "99-49-0",
+                "name": "Carvone",
+                "percentage": 0.1
+            },
+            {
+                "cas": "35154-45-1",
+                "name": "cis-3-Hexenyl isovalerate",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8008-88-6": {
+        "name": "Valerian root oil",
+        "constituents": [
+            {
+                "cas": "97-42-7",
+                "name": "Carvyl acetate",
+                "percentage": 0.05
+            }
+        ]
+    },
+    "8000-46-2": {
+        "name": "Geranium oil",
+        "constituents": [
+            {
+                "cas": "35154-45-1",
+                "name": "cis-3-Hexenyl isovalerate",
+                "percentage": 0.1
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.5
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.5
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.15
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.41
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.5
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.8
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 9.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 17.7
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 17.0
+            },
+            {
+                "cas": "7540-51-4",
+                "name": "l-Citronellol",
+                "percentage": 10.6
+            },
+            {
+                "cas": "7540-51-4",
+                "name": "l-Citronellol",
+                "percentage": 21.1
+            },
+            {
+                "cas": "7540-51-4",
+                "name": "l-Citronellol",
+                "percentage": 33.0
+            }
+        ]
+    },
+    "68917-18-0": {
+        "name": "Mentha arvensis oil",
+        "constituents": [
+            {
+                "cas": "35154-45-1",
+                "name": "cis-3-Hexenyl isovalerate",
+                "percentage": 0.98
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.25
+            }
+        ]
+    },
+    "8015-79-0": {
+        "name": "Calamus oil",
+        "constituents": [
+            {
+                "cas": "5273-86-9",
+                "name": "cis-Asarone/beta-Asarone",
+                "percentage": 70.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "2883-98-9",
+                "name": "trans-Asarone/alpha-Asarone",
+                "percentage": 0.7
+            }
+        ]
+    },
+    "8007-87-2": {
+        "name": "Cubeb oil",
+        "constituents": [
+            {
+                "cas": "5273-86-9",
+                "name": "cis-Asarone/beta-Asarone",
+                "percentage": 2.98
+            },
+            {
+                "cas": "122-03-2",
+                "name": "Cuminaldehyde",
+                "percentage": 0.09
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 0.04
+            },
+            {
+                "cas": "2883-98-9",
+                "name": "trans-Asarone/alpha-Asarone",
+                "percentage": 1.55
+            }
+        ]
+    },
+    "96507-91-4": {
+        "name": "Cardamom seed absolute",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.88
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.88
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.83
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.8
+            }
+        ]
+    },
+    "8000-66-6": {
+        "name": "Cardamom seed oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.5
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "8000-29-1": {
+        "name": "Citronella oil, Ceylon type",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.8
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.8
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 4.5
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 36.0
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.9
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 3.0
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 6.0
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 11.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.9
+            },
+            {
+                "cas": "19317-11-4",
+                "name": "Farnesal",
+                "percentage": 0.01
+            },
+            {
+                "cas": "19317-11-4",
+                "name": "Farnesal",
+                "percentage": 0.01
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 17.7
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 22.0
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "233683-84-6": {
+        "name": "Citrus junos oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "93686-22-7": {
+        "name": "Clementine oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.15
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.1
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.1
+            },
+            {
+                "cas": "85-91-6",
+                "name": "Methyl N-methylanthranilate",
+                "percentage": 0.03
+            }
+        ]
+    },
+    "799259-56-6": {
+        "name": "Cyperus articulatus oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.7
+            }
+        ]
+    },
+    "92201-64-4": {
+        "name": "Eucalyptus radiata oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 1.5
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.16
+            }
+        ]
+    },
+    "8007-08-7": {
+        "name": "Ginger oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 2.8
+            },
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.8
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.4
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.17
+            },
+            {
+                "cas": "19317-11-4",
+                "name": "Farnesal",
+                "percentage": 0.2
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.9
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.27
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.57
+            }
+        ]
+    },
+    "68916-46-1": {
+        "name": "Grapefruit oil, terpeneless",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 10.0
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 3.2
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.31
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "2111-75-3",
+                "name": "Perilla aldehyde",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "938464-05-2": {
+        "name": "Kumquat oil, Fortunella margarita",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 10.0
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 3.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "68648-39-5": {
+        "name": "Lemon oil, terpeneless",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 40.0
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 3.0
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 1.72
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 2.0
+            }
+        ]
+    },
+    "1370641-98-7": {
+        "name": "Meyer lemon oil. cold pressed",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 5.0
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "68514-75-0": {
+        "name": "Orange essence oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.15
+            }
+        ]
+    },
+    "8008-57-9": {
+        "name": "Orange, sweet, Valencia oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.15
+            }
+        ]
+    },
+    "8014-19-5": {
+        "name": "Palmarosa oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.6
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 1.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 82.4
+            }
+        ]
+    },
+    "72869-73-9": {
+        "name": "Tangelo oil, expressed",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8016-85-1": {
+        "name": "Tangerine oil",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Citral",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "68991-25-3": {
+        "name": "Citron oil",
+        "constituents": [
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 0.15
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.12
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.01
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 2.63
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.71
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 1.57
+            }
+        ]
+    },
+    "91771-50-5": {
+        "name": "Citrus hystrix extract",
+        "constituents": [
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 11.7
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.4
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 3.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.7
+            }
+        ]
+    },
+    "85203-56-1": {
+        "name": "Eucalyptus citriodora oil",
+        "constituents": [
+            {
+                "cas": "106-23-0",
+                "name": "Citronellal",
+                "percentage": 71.77
+            },
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 1.81
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 7.37
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.12
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.05
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.11
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.21
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.03
+            }
+        ]
+    },
+    "8021-27-0": {
+        "name": "Abies alba cone oil",
+        "constituents": [
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.05
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.3
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.3
+            }
+        ]
+    },
+    "84649-93-4": {
+        "name": "Bucchu absolute, betulina",
+        "constituents": [
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.15
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.19
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.02
+            }
+        ]
+    },
+    "8008-45-5": {
+        "name": "Nutmeg oil",
+        "constituents": [
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.13
+            },
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.2
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.1
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.5
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 1.2
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.6
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 1.5
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "68917-52-2": {
+        "name": "Schinus molle oil",
+        "constituents": [
+            {
+                "cas": "150-84-5",
+                "name": "Citronellyl acetate",
+                "percentage": 0.14
+            },
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.02
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "68606-82-6": {
+        "name": "Deertongue leaf absolute",
+        "constituents": [
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 25.0
+            },
+            {
+                "cas": "119-84-6",
+                "name": "Dihydrocoumarin",
+                "percentage": 2.0
+            }
+        ]
+    },
+    "68916-09-6": {
+        "name": "Flouve absolute",
+        "constituents": [
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 2.0
+            }
+        ]
+    },
+    "8031-00-3": {
+        "name": "Hay absolute",
+        "constituents": [
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 8.0
+            }
+        ]
+    },
+    "68917-05-5": {
+        "name": "Osmanthus absolute",
+        "constituents": [
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 0.02
+            },
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 0.02
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.07
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.06
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.2
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.2
+            }
+        ]
+    },
+    "8024-04-2": {
+        "name": "Tonka Bean absolute",
+        "constituents": [
+            {
+                "cas": "91-64-5",
+                "name": "Coumarin",
+                "percentage": 56.77
+            },
+            {
+                "cas": "119-84-6",
+                "name": "Dihydrocoumarin",
+                "percentage": 1.85
+            }
+        ]
+    },
+    "232-374-8": {
+        "name": "Pine tar oil, rectified",
+        "constituents": [
+            {
+                "cas": "1319-77-3",
+                "name": "Cresol (unspecified)",
+                "percentage": 0.68
+            }
+        ]
+    },
+    "8014-13-9": {
+        "name": "Cumin seed oil",
+        "constituents": [
+            {
+                "cas": "122-03-2",
+                "name": "Cuminaldehyde",
+                "percentage": 21.0
+            },
+            {
+                "cas": "536-60-7",
+                "name": "p-Isopropylbenzyl alcohol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8023-91-4": {
+        "name": "Galbanum oil",
+        "constituents": [
+            {
+                "cas": "106-02-5",
+                "name": "Cyclopentadecanolide/omega-Pentadecalatone",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8000-42-8": {
+        "name": "Caraway seed oil",
+        "constituents": [
+            {
+                "cas": "2244-16-8",
+                "name": "d-Carvone",
+                "percentage": 59.0
+            },
+            {
+                "cas": "2111-75-3",
+                "name": "Perilla aldehyde",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8015-90-5": {
+        "name": "Celery seed oil",
+        "constituents": [
+            {
+                "cas": "2244-16-8",
+                "name": "d-Carvone",
+                "percentage": 0.2
+            },
+            {
+                "cas": "2244-16-8",
+                "name": "d-Carvone",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8006-75-5": {
+        "name": "Dill seed oil",
+        "constituents": [
+            {
+                "cas": "2244-16-8",
+                "name": "d-Carvone",
+                "percentage": 51.0
+            },
+            {
+                "cas": "2244-16-8",
+                "name": "d-Carvone",
+                "percentage": 31.5
+            }
+        ]
+    },
+    "68917-43-1": {
+        "name": "Hibawood oil",
+        "constituents": [
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.38
+            }
+        ]
+    },
+    "8016-33-9": {
+        "name": "Marjoram oil, Spanish",
+        "constituents": [
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.09
+            },
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.13
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.07
+            }
+        ]
+    },
+    "91770-69-3": {
+        "name": "Spruce oil, White",
+        "constituents": [
+            {
+                "cas": "106-22-9",
+                "name": "dl-Citronellol",
+                "percentage": 0.28
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.22
+            }
+        ]
+    },
+    "84625-39-8": {
+        "name": "Fennel oil, bitter, phellandrene type",
+        "constituents": [
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 4.7
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8006-84-6": {
+        "name": "Fennel oil, bitter,anethole type",
+        "constituents": [
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 2.1
+            },
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 2.32
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.3
+            },
+            {
+                "cas": "123-11-5",
+                "name": "p-Methoxybenzaldehyde",
+                "percentage": 0.47
+            }
+        ]
+    },
+    "8024-15-5": {
+        "name": "Fir needle oil, Canadian",
+        "constituents": [
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.04
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.22
+            }
+        ]
+    },
+    "8008-46-6": {
+        "name": "Myrtle oil",
+        "constituents": [
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 0.1
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.4
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.2
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "91770-56-8": {
+        "name": "Ravensara aromatica oil",
+        "constituents": [
+            {
+                "cas": "140-67-0",
+                "name": "Estragole",
+                "percentage": 8.0
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 0.03
+            }
+        ]
+    },
+    "8006-77-7": {
+        "name": "Allspice oil",
+        "constituents": [
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 69.0
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 41.4
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 83.0
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 8.5
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 5.1
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 6.0
+            }
+        ]
+    },
+    "8007-06-5": {
+        "name": "Cascarilla bark oil",
+        "constituents": [
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.4
+            }
+        ]
+    },
+    "8007-12-3": {
+        "name": "Mace oil",
+        "constituents": [
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.7
+            },
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.4
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 1.2
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.6
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 1.7
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 1.6
+            }
+        ]
+    },
+    "68917-09-9": {
+        "name": "Ocatea cymbarum oil",
+        "constituents": [
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.36
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 92.0
+            }
+        ]
+    },
+    "8006-80-2": {
+        "name": "Sassafras bark oil",
+        "constituents": [
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 0.36
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.3
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 92.0
+            }
+        ]
+    },
+    "8016-69-1": {
+        "name": "Snakeroot oil",
+        "constituents": [
+            {
+                "cas": "97-53-0",
+                "name": "Eugenol",
+                "percentage": 1.0
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.0
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 40.0
+            }
+        ]
+    },
+    "8015-62-1": {
+        "name": "Ambrette seed absolute",
+        "constituents": [
+            {
+                "cas": "19317-11-4",
+                "name": "Farnesal",
+                "percentage": 0.5
+            },
+            {
+                "cas": "19317-11-4",
+                "name": "Farnesal",
+                "percentage": 0.2
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 5.0
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 3.0
+            },
+            {
+                "cas": "4602-84-0",
+                "name": "Farnesol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8007-75-8": {
+        "name": "Bergamot oil expressed",
+        "constituents": [
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.28
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.04
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "68608-38-8": {
+        "name": "Tangerine oil terpenes",
+        "constituents": [
+            {
+                "cas": "141-27-5",
+                "name": "Geranial",
+                "percentage": 0.02
+            },
+            {
+                "cas": "106-26-3",
+                "name": "Neral",
+                "percentage": 0.01
+            },
+            {
+                "cas": "2111-75-3",
+                "name": "Perilla aldehyde",
+                "percentage": 0.01
+            }
+        ]
+    },
+    "8000-48-4": {
+        "name": "Eucalyptus dives oil",
+        "constituents": [
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.13
+            }
+        ]
+    },
+    "8022-91-1": {
+        "name": "Ho bark oil",
+        "constituents": [
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.03
+            },
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.4
+            }
+        ]
+    },
+    "8007-04-3": {
+        "name": "Hop oil",
+        "constituents": [
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "8006-86-8": {
+        "name": "Linaloe wood oil",
+        "constituents": [
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 1.0
+            }
+        ]
+    },
+    "8016-31-7": {
+        "name": "Lovage root oil",
+        "constituents": [
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.92
+            },
+            {
+                "cas": "97-54-1",
+                "name": "Isoeugenol",
+                "percentage": 0.06
+            },
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.02
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.13
+            }
+        ]
+    },
+    "84082-58-6": {
+        "name": "Marjoram oleoresin",
+        "constituents": [
+            {
+                "cas": "106-24-1",
+                "name": "Geraniol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8016-23-7": {
+        "name": "Guaiac wood oil",
+        "constituents": [
+            {
+                "cas": "93-29-8",
+                "name": "Isoeugenyl acetate",
+                "percentage": 0.12
+            }
+        ]
+    },
+    "8000-68-8": {
+        "name": "Parsley herb oil",
+        "constituents": [
+            {
+                "cas": "6485-40-1",
+                "name": "l-Carvone",
+                "percentage": 0.2
+            }
+        ]
+    },
+    "68991-36-6": {
+        "name": "Cedarwood oil, Himalaya",
+        "constituents": [
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.7
+            }
+        ]
+    },
+    "91745-97-0": {
+        "name": "Hinoki leaf oil",
+        "constituents": [
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 32.0
+            },
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.7
+            }
+        ]
+    },
+    "9005-90-7": {
+        "name": "Turpentine gum",
+        "constituents": [
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 4.39
+            }
+        ]
+    },
+    "8006-64-2": {
+        "name": "Turpentine oil",
+        "constituents": [
+            {
+                "cas": "475-20-7",
+                "name": "Longifolene",
+                "percentage": 0.12
+            }
+        ]
+    },
+    "8023-89-0": {
+        "name": "Elemi oil",
+        "constituents": [
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.4
+            },
+            {
+                "cas": "93-15-2",
+                "name": "Methyl eugenol",
+                "percentage": 0.09
+            }
+        ]
+    },
+    "8008-31-9": {
+        "name": "Mandarin oil",
+        "constituents": [
+            {
+                "cas": "85-91-6",
+                "name": "Methyl N-methylanthranilate",
+                "percentage": 0.4
+            }
+        ]
+    },
+    "97676-19-2": {
+        "name": "Cassis bud absolute",
+        "constituents": [
+            {
+                "cas": "536-60-7",
+                "name": "p-Isopropylbenzyl alcohol",
+                "percentage": 0.1
+            }
+        ]
+    },
+    "8008-51-3": {
+        "name": "Camphor oil, brown",
+        "constituents": [
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 80.0
+            },
+            {
+                "cas": "94-59-7",
+                "name": "Safrole",
+                "percentage": 50.0
+            }
+        ]
+    },
+    "68527-78-6": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "122-40-7",
+                "name": "Restricted Aldehyde",
+                "percentage": 60.3
+            }
+        ]
+    },
+    "39129-16-3": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Restricted Aldehyde",
+                "percentage": 44.4
+            }
+        ]
+    },
+    "37837-44-8": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "100-52-7",
+                "name": "Restricted Aldehyde",
+                "percentage": 44.4
+            }
+        ]
+    },
+    "91-51-0": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "80-54-6",
+                "name": "Restricted Aldehyde",
+                "percentage": 60.6
+            }
+        ]
+    },
+    "94386-48-8": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "104-55-2",
+                "name": "Restricted Aldehyde",
+                "percentage": 49.8
+            }
+        ]
+    },
+    "67801-47-2": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "5392-40-5",
+                "name": "Restricted Aldehyde",
+                "percentage": 53.3
+            }
+        ]
+    },
+    "68738-99-8": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "68039-49-6",
+                "name": "Restricted Aldehyde",
+                "percentage": 50.9
+            }
+        ]
+    },
+    "67924-13-4": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "101-86-0",
+                "name": "Restricted Aldehyde",
+                "percentage": 61.8
+            }
+        ]
+    },
+    "68527-79-7": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "107-75-5",
+                "name": "Restricted Aldehyde",
+                "percentage": 63.5
+            }
+        ]
+    },
+    "89-43-0": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "107-75-5",
+                "name": "Restricted Aldehyde",
+                "percentage": 56.4
+            }
+        ]
+    },
+    "67634-12-2": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "31906-04-4; 51414-25-6",
+                "name": "Restricted Aldehyde",
+                "percentage": 61.3
+            }
+        ]
+    },
+    "111753-62-9": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "5462-06-6",
+                "name": "Restricted Aldehyde",
+                "percentage": 57.3
+            }
+        ]
+    },
+    "111753-60-7": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "1205-17-0",
+                "name": "Restricted Aldehyde",
+                "percentage": 59.1
+            }
+        ]
+    },
+    "91-50-9": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "103-95-7",
+                "name": "Restricted Aldehyde",
+                "percentage": 58.8
+            }
+        ]
+    },
+    "67845-42-5": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "106-23-0",
+                "name": "Restricted Aldehyde",
+                "percentage": 53.7
+            }
+        ]
+    },
+    "94108-09-5": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "122-03-2",
+                "name": "Restricted Aldehyde",
+                "percentage": 50.2
+            }
+        ]
+    },
+    "14735-72-9": {
+        "name": "Schiff Base",
+        "constituents": [
+            {
+                "cas": "123-11-5",
+                "name": "Restricted Aldehyde",
+                "percentage": 50.6
+            }
+        ]
+    }
+}

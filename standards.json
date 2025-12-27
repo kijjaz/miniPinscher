@@ -1,0 +1,2571 @@
+[
+    {
+        "id": "IFRA_STD_001",
+        "name": "Acetic acid, anhydride, reaction products with 1,5,10-Trimethyl-1,5,9-cyclododecatriene",
+        "cas": [
+            "144020-22-4",
+            "28371-99-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.52
+    },
+    {
+        "id": "IFRA_STD_002",
+        "name": "Acetylated Vetiver oil",
+        "cas": [
+            "84082-84-8",
+            "68917-34-0",
+            "73246-97-6",
+            "62563-80-8"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.1
+    },
+    {
+        "id": "IFRA_STD_003",
+        "name": "Allyl phenoxyacetate",
+        "cas": [
+            "7493-74-5",
+            "863306-60-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.076
+    },
+    {
+        "id": "IFRA_STD_004",
+        "name": "alpha-Amyl cinnamic alcohol",
+        "cas": [
+            "101-85-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.32
+    },
+    {
+        "id": "IFRA_STD_005",
+        "name": "alpha-Amyl cinnamic aldehyde",
+        "cas": [
+            "122-40-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.32
+    },
+    {
+        "id": "IFRA_STD_006",
+        "name": "Anisyl alcohol",
+        "cas": [
+            "105-13-5",
+            "1331-81-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.0055
+    },
+    {
+        "id": "IFRA_STD_007",
+        "name": "Benzaldehyde",
+        "cas": [
+            "100-52-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.064
+    },
+    {
+        "id": "IFRA_STD_008",
+        "name": "Benzyl alcohol",
+        "cas": [
+            "100-51-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.17
+    },
+    {
+        "id": "IFRA_STD_009",
+        "name": "Benzyl benzoate",
+        "cas": [
+            "120-51-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.21
+    },
+    {
+        "id": "IFRA_STD_010",
+        "name": "Benzyl cinnamate",
+        "cas": [
+            "103-41-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.51
+    },
+    {
+        "id": "IFRA_STD_011",
+        "name": "Benzyl salicylate",
+        "cas": [
+            "118-58-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 1.9
+    },
+    {
+        "id": "IFRA_STD_012",
+        "name": "alpha-Butylcinnamaldehyde",
+        "cas": [
+            "7492-44-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_013",
+        "name": "3-(m-tert-Butylphenyl)-2-methylpropionaldehyde (m-BMHCA)",
+        "cas": [
+            "62518-65-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.28
+    },
+    {
+        "id": "IFRA_STD_014",
+        "name": "p-tert-Butyldihydrocinnamaldehyde",
+        "cas": [
+            "18127-01-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.029
+    },
+    {
+        "id": "IFRA_STD_015",
+        "name": "p-tert-Butyl-\u03b1-methylhydrocinnamic aldehyde (p-BMHCA)",
+        "cas": [
+            "80-54-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.05
+    },
+    {
+        "id": "IFRA_STD_016",
+        "name": "Carvone",
+        "cas": [
+            "99-49-0",
+            "2244-16-8",
+            "6485-40-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.039
+    },
+    {
+        "id": "IFRA_STD_017",
+        "name": "Cinnamic alcohol",
+        "cas": [
+            "104-54-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.25
+    },
+    {
+        "id": "IFRA_STD_018",
+        "name": "Cinnamic aldehyde",
+        "cas": [
+            "104-55-2"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.042
+    },
+    {
+        "id": "IFRA_STD_019",
+        "name": "Cinnamic aldehyde dimethyl acetal",
+        "cas": [
+            "4364-06-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.089
+    },
+    {
+        "id": "IFRA_STD_020",
+        "name": "Cinnamyl nitrile",
+        "cas": [
+            "1885-38-7",
+            "4360-47-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_021",
+        "name": "Citral",
+        "cas": [
+            "5392-40-5",
+            "141-27-5",
+            "106-26-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.15
+    },
+    {
+        "id": "IFRA_STD_022",
+        "name": "Citronellol",
+        "cas": [
+            "106-22-9",
+            "1117-61-9",
+            "26489-01-0",
+            "6812-78-8",
+            "141-25-3",
+            "7540-51-4"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 3.2
+    },
+    {
+        "id": "IFRA_STD_023",
+        "name": "Coumarin",
+        "cas": [
+            "91-64-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_024",
+        "name": "Cuminaldehyde",
+        "cas": [
+            "122-03-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.12
+    },
+    {
+        "id": "IFRA_STD_025",
+        "name": "Cyclamen aldehyde",
+        "cas": [
+            "103-95-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.076
+    },
+    {
+        "id": "IFRA_STD_026",
+        "name": "Cyclopentadecanolide",
+        "cas": [
+            "106-02-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.6
+    },
+    {
+        "id": "IFRA_STD_027",
+        "name": "Dibenzyl ether",
+        "cas": [
+            "103-50-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.00024
+    },
+    {
+        "id": "IFRA_STD_028",
+        "name": "6,7-Dihydro-1,1,2,3,3-pentamethyl-4(5H)-indanone (DPMI)",
+        "cas": [
+            "33704-61-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.025
+    },
+    {
+        "id": "IFRA_STD_029",
+        "name": "Dihydrocoumarin",
+        "cas": [
+            "119-84-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.053
+    },
+    {
+        "id": "IFRA_STD_030",
+        "name": "Dimethylcyclohex-3-ene-1-carbaldehyde (mixed isomers)",
+        "cas": [
+            "68737-61-1 (mixed isomers)",
+            "68039-49-6",
+            "68039-48-5",
+            "27939-60-2",
+            "67801-65-4",
+            "36635-35-5",
+            "68084-52-6",
+            "35145-02-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.64
+    },
+    {
+        "id": "IFRA_STD_031",
+        "name": "1-(5,5-Dimethyl-1-cyclohexen-1-yl)pent-4-en-1-one",
+        "cas": [
+            "56973-85-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.27
+    },
+    {
+        "id": "IFRA_STD_032",
+        "name": "2,2-Dimethyl-3-(3-tolyl)propan-1-ol",
+        "cas": [
+            "103694-68-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.061
+    },
+    {
+        "id": "IFRA_STD_033",
+        "name": "2-Ethoxy-4-methylphenol",
+        "cas": [
+            "2563-07-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.017
+    },
+    {
+        "id": "IFRA_STD_034",
+        "name": "p-Ethylbenzaldehyde",
+        "cas": [
+            "4748-78-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.12
+    },
+    {
+        "id": "IFRA_STD_035",
+        "name": "Eugenol",
+        "cas": [
+            "97-53-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.64
+    },
+    {
+        "id": "IFRA_STD_036",
+        "name": "Farnesol",
+        "cas": [
+            "4602-84-0",
+            "106-28-5",
+            "3790-71-4",
+            "16106-95-9",
+            "3879-60-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.29
+    },
+    {
+        "id": "IFRA_STD_037",
+        "name": "Geraniol",
+        "cas": [
+            "106-24-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.78
+    },
+    {
+        "id": "IFRA_STD_038",
+        "name": "2-Heptylidene cyclopentan-1-one",
+        "cas": [
+            "39189-74-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_039",
+        "name": "2-Hexenal",
+        "cas": [
+            "505-57-7",
+            "6728-26-3",
+            "16635-54-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_040",
+        "name": "alpha-Hexyl cinnamic aldehyde",
+        "cas": [
+            "101-86-0"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 2.5
+    },
+    {
+        "id": "IFRA_STD_041",
+        "name": "alpha-Hexylidene cyclopentanone",
+        "cas": [
+            "17373-89-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.033
+    },
+    {
+        "id": "IFRA_STD_042",
+        "name": "Hexyl salicylate",
+        "cas": [
+            "6259-76-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.3
+    },
+    {
+        "id": "IFRA_STD_043",
+        "name": "Hydroxycitronellal",
+        "cas": [
+            "107-75-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.53
+    },
+    {
+        "id": "IFRA_STD_044",
+        "name": "3 and 4-(4-Hydroxy-4-methylpentyl)-3-cyclohexene-1-carboxaldehyde (HMPCC)",
+        "cas": [
+            "31906-04-4",
+            "51414-25-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.2
+    },
+    {
+        "id": "IFRA_STD_045",
+        "name": "p-Isobutyl-alpha-methyl hydrocinnamaldehyde",
+        "cas": [
+            "6658-48-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.25
+    },
+    {
+        "id": "IFRA_STD_046",
+        "name": "Isocyclocitral",
+        "cas": [
+            "1335-66-6",
+            "1423-46-7",
+            "67634-07-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.76
+    },
+    {
+        "id": "IFRA_STD_047",
+        "name": "Isocyclogeraniol",
+        "cas": [
+            "68527-77-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.41
+    },
+    {
+        "id": "IFRA_STD_048",
+        "name": "Isoeugenol",
+        "cas": [
+            "97-54-1",
+            "5932-68-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.027
+    },
+    {
+        "id": "IFRA_STD_049",
+        "name": "Jasmine absolute (grandiflorum)",
+        "cas": [
+            "8022-96-6",
+            "8024-43-9",
+            "90045-94-6",
+            "84776-64-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.15
+    },
+    {
+        "id": "IFRA_STD_050",
+        "name": "Jasmine absolute (sambac)",
+        "cas": [
+            "91770-14-8",
+            "1034798-23-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.96
+    },
+    {
+        "id": "IFRA_STD_051",
+        "name": "Melissa oil (genuine Melissa officinalis L.)",
+        "cas": [
+            "8014-71-9",
+            "84082-61-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.15
+    },
+    {
+        "id": "IFRA_STD_052",
+        "name": "Perilla aldehyde",
+        "cas": [
+            "2111-75-3"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.076
+    },
+    {
+        "id": "IFRA_STD_053",
+        "name": "Menthadiene-7-methyl formate",
+        "cas": [
+            "68683-20-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_054",
+        "name": "p-Methoxybenzaldehyde",
+        "cas": [
+            "123-11-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.093
+    },
+    {
+        "id": "IFRA_STD_055",
+        "name": "o-Methoxycinnamaldehyde",
+        "cas": [
+            "1504-74-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_056",
+        "name": "Methoxy dicyclopentadiene carboxaldehyde",
+        "cas": [
+            "86803-90-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.27
+    },
+    {
+        "id": "IFRA_STD_057",
+        "name": "4-Methoxy-alpha-methylbenzenepropanal",
+        "cas": [
+            "5462-06-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.64
+    },
+    {
+        "id": "IFRA_STD_058",
+        "name": "2-Methoxy-4-methylphenol",
+        "cas": [
+            "93-51-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.012
+    },
+    {
+        "id": "IFRA_STD_059",
+        "name": "alpha-Methyl-1,3-benzodioxole-5-propionaldehyde (MMDHCA)",
+        "cas": [
+            "1205-17-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.077
+    },
+    {
+        "id": "IFRA_STD_060",
+        "name": "alpha-Methyl cinnamic aldehyde",
+        "cas": [
+            "101-39-3"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.38
+    },
+    {
+        "id": "IFRA_STD_061",
+        "name": "6-Methyl-3,5-heptadien-2-one",
+        "cas": [
+            "1604-28-0"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.012
+    },
+    {
+        "id": "IFRA_STD_062",
+        "name": "Methyl heptine carbonate",
+        "cas": [
+            "111-12-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.012
+    },
+    {
+        "id": "IFRA_STD_063",
+        "name": "Methyl ionone, mixed isomers",
+        "cas": [
+            "1335-46-2",
+            "127-42-4",
+            "127-43-5",
+            "127-51-5",
+            "7779-30-8",
+            "79-89-0",
+            "1335-94-0"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 7.6
+    },
+    {
+        "id": "IFRA_STD_064",
+        "name": "Methyl octine carbonate",
+        "cas": [
+            "111-80-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.0026
+    },
+    {
+        "id": "IFRA_STD_065",
+        "name": "3-Methyl-2-(pentyloxy)cyclopent-2-en-1-one",
+        "cas": [
+            "68922-13-4"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.12
+    },
+    {
+        "id": "IFRA_STD_066",
+        "name": "2-Nonyn-1-al dimethyl acetal",
+        "cas": [
+            "13257-44-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 2.5
+    },
+    {
+        "id": "IFRA_STD_067",
+        "name": "Oakmoss extracts",
+        "cas": [
+            "90028-68-5",
+            "68917-10-2",
+            "9000-50-4"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.076
+    },
+    {
+        "id": "IFRA_STD_068",
+        "name": "1-(1,2,3,4,5,6,7,8 Octahydro-2,3,8,8-tetramethyl-2-naphthalenyl) ethanone (OTNE)",
+        "cas": [
+            "54464-57-2",
+            "54464-59-4",
+            "68155-66-8",
+            "68155-67-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.56
+    },
+    {
+        "id": "IFRA_STD_069",
+        "name": "1-Octen-3-yl acetate",
+        "cas": [
+            "2442-10-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.38
+    },
+    {
+        "id": "IFRA_STD_070",
+        "name": "Opoponax",
+        "cas": [
+            "8021-36-1",
+            "9000-78-6",
+            "93384-32-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_071",
+        "name": "Peru balsam",
+        "cas": [
+            "8007-00-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.1
+    },
+    {
+        "id": "IFRA_STD_072",
+        "name": "1-(2,4,4,5,5-Pentamethyl-1-cyclopenten-1-yl)ethan-1-one",
+        "cas": [
+            "13144-88-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_073",
+        "name": "Phenylacetaldehyde",
+        "cas": [
+            "122-78-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.064
+    },
+    {
+        "id": "IFRA_STD_074",
+        "name": "3-Phenylbutanal",
+        "cas": [
+            "16251-77-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.023
+    },
+    {
+        "id": "IFRA_STD_075",
+        "name": "2-Phenylpropionaldehyde",
+        "cas": [
+            "93-53-8",
+            "1340-11-0",
+            "34713-70-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.041
+    },
+    {
+        "id": "IFRA_STD_076",
+        "name": "3-Propylidenephthalide",
+        "cas": [
+            "17369-59-4"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_077",
+        "name": "Rose ketones",
+        "cas": [
+            "23696-85-7",
+            "23726-93-4",
+            "59739-63-8",
+            "43052-87-5",
+            "24720-09-0",
+            "23726-94-5",
+            "23726-92-3",
+            "23726-91-2",
+            "35044-68-9",
+            "57378-68-4",
+            "71048-82-3",
+            "35087-49-1",
+            "39872-57-6",
+            "70266-48-7",
+            "33673-71-1",
+            "87064-19-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.011
+    },
+    {
+        "id": "IFRA_STD_078",
+        "name": "Styrax",
+        "cas": [
+            "8046-19-3",
+            "8024-01-9",
+            "94891-27-7",
+            "94891-28-8",
+            "101227-15-0"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.16
+    },
+    {
+        "id": "IFRA_STD_079",
+        "name": "Tea leaf absolute",
+        "cas": [
+            "84650-60-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.052
+    },
+    {
+        "id": "IFRA_STD_080",
+        "name": "Treemoss extracts",
+        "cas": [
+            "90028-67-4",
+            "68648-41-9",
+            "68917-40-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.076
+    },
+    {
+        "id": "IFRA_STD_081",
+        "name": "o,m,p-Tolualdehydes and their mixtures",
+        "cas": [
+            "529-20-4",
+            "620-23-5",
+            "104-87-0",
+            "1334-78-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.12
+    },
+    {
+        "id": "IFRA_STD_082",
+        "name": "2,6,6-Trimethylcyclohex-1,3-dienyl methanal",
+        "cas": [
+            "116-26-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.0032
+    },
+    {
+        "id": "IFRA_STD_083",
+        "name": "Verbena oil and absolute (Lippia citriodora Kunth.)",
+        "cas": [
+            "8024-12-2",
+            "85116-63-8"
+        ],
+        "type": "DERMAL SENSITIZATION AND PHOTOTOXICITY",
+        "limit_cat4": 0.17
+    },
+    {
+        "id": "IFRA_STD_084",
+        "name": "Ylang ylang extracts",
+        "cas": [
+            "8006-81-3",
+            "68606-83-7",
+            "83863-30-3"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.18
+    },
+    {
+        "id": "IFRA_STD_085",
+        "name": "Acetyl hexamethyl indan (AHMI)",
+        "cas": [
+            "15323-35-0"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 2.0
+    },
+    {
+        "id": "IFRA_STD_086",
+        "name": "Angelica root oil",
+        "cas": [
+            "8015-64-3",
+            "84775-41-7"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 0.8
+    },
+    {
+        "id": "IFRA_STD_087",
+        "name": "Bergamot oil expressed",
+        "cas": [
+            "8007-75-8",
+            "89957-91-5"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 0.4
+    },
+    {
+        "id": "IFRA_STD_088",
+        "name": "Bitter orange peel oil expressed",
+        "cas": [
+            "68916-04-1",
+            "72968-50-4"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 1.25
+    },
+    {
+        "id": "IFRA_STD_089",
+        "name": "Citrus oils and other furocoumarins containing essential oils",
+        "cas": [
+            "Not applicable."
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_090",
+        "name": "Cumin oil",
+        "cas": [
+            "8014-13-9",
+            "84775-51-9"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 0.4
+    },
+    {
+        "id": "IFRA_STD_091",
+        "name": "Grapefruit oil expressed",
+        "cas": [
+            "8016-20-4",
+            "90045-43-5"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 4.0
+    },
+    {
+        "id": "IFRA_STD_092",
+        "name": "Lemon oil cold pressed",
+        "cas": [
+            "8008-56-8",
+            "84929-31-7"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 2.0
+    },
+    {
+        "id": "IFRA_STD_093",
+        "name": "Lime oil expressed",
+        "cas": [
+            "8008-26-2",
+            "90063-52-8"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 0.7
+    },
+    {
+        "id": "IFRA_STD_094",
+        "name": "Methyl N-methylanthranilate",
+        "cas": [
+            "85-91-6"
+        ],
+        "type": "PHOTOTOXICITY AND SYSTEMIC TOXICITY, POTENTIAL OF NITROSAMINE FORMATION",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_095",
+        "name": "Methyl beta-naphthyl ketone",
+        "cas": [
+            "93-08-3"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 0.2
+    },
+    {
+        "id": "IFRA_STD_096",
+        "name": "Rue oil",
+        "cas": [
+            "8014-29-7",
+            "84929-47-5"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 0.15
+    },
+    {
+        "id": "IFRA_STD_097",
+        "name": "Tagetes oil and absolute",
+        "cas": [
+            "Prohibition of Tagetes erecta:",
+            "90131-43-4",
+            "8016-84-0",
+            "Restriction and Specification of Tagetes patula and Tagetes minuta:",
+            "91722-29-1",
+            "8016-84-0",
+            "91770-75-1"
+        ],
+        "type": "PHOTOTOXICITY",
+        "limit_cat4": 0.01
+    },
+    {
+        "id": "IFRA_STD_098",
+        "name": "Furfural",
+        "cas": [
+            "98-01-1"
+        ],
+        "type": "CARCINOGENICITY",
+        "limit_cat4": 0.001
+    },
+    {
+        "id": "IFRA_STD_099",
+        "name": "Estragole",
+        "cas": [
+            "140-67-0",
+            "1407-27-8",
+            "77525-18-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.00063
+    },
+    {
+        "id": "IFRA_STD_100",
+        "name": "Methyl eugenol",
+        "cas": [
+            "93-15-2"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.00021
+    },
+    {
+        "id": "IFRA_STD_101",
+        "name": "Methyl N-formylanthranilate",
+        "cas": [
+            "41270-80-8"
+        ],
+        "type": "PHOTOTOXICITY, POTENTIAL OF NITROSAMINE FORMATION",
+        "limit_cat4": 0.1
+    },
+    {
+        "id": "IFRA_STD_102",
+        "name": "Thujone",
+        "cas": [
+            "546-80-5",
+            "471-15-8",
+            "76231-76-0",
+            "1125-12-8"
+        ],
+        "type": "NEUROTOXICITY",
+        "limit_cat4": 0.032
+    },
+    {
+        "id": "IFRA_STD_103",
+        "name": "Acetyl ethyl tetramethyl tetralin (AETT)",
+        "cas": [
+            "88-29-9"
+        ],
+        "type": "NEUROTOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_104",
+        "name": "Acetyl isovaleryl",
+        "cas": [
+            "13706-86-0"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_105",
+        "name": "Alantroot oil",
+        "cas": [
+            "84012-20-4",
+            "97676-35-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_106",
+        "name": "Allyl heptine carbonate",
+        "cas": [
+            "73157-43-4"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_107",
+        "name": "Allyl isothiocyanate",
+        "cas": [
+            "57-06-7"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_108",
+        "name": "Amylcyclopentenone",
+        "cas": [
+            "25564-22-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_109",
+        "name": "Anisylidene acetone",
+        "cas": [
+            "943-88-4"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_110",
+        "name": "cis-and trans-Asarone",
+        "cas": [
+            "494-40-6",
+            "2883-98-9",
+            "5273-86-9"
+        ],
+        "type": "CARCINOGENICITY",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_111",
+        "name": "Benzene",
+        "cas": [
+            "71-43-2"
+        ],
+        "type": "CARCINOGENICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_112",
+        "name": "Benzyl cyanide",
+        "cas": [
+            "140-29-4"
+        ],
+        "type": "POTENTIAL OF CYANIDE RELEASE",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_113",
+        "name": "Benzylidene acetone",
+        "cas": [
+            "122-57-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_114",
+        "name": "Birch wood pyrolysate",
+        "cas": [
+            "8001-88-5",
+            "68917-50-0",
+            "84012-15-7",
+            "85251-66-7",
+            "85940-29-0",
+            "91745-85-6"
+        ],
+        "type": "CARCINOGENICITY, GENOTOXICITY BY RELEASE OF POLYNUCLEAR HYDROCARBONS (PAH)",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_115",
+        "name": "Boldo oil",
+        "cas": [
+            "8022-81-9",
+            "84649-96-7"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_116",
+        "name": "3-Bromo-1,7,7-trimethylbicyclo[2.2.1]heptane-2-one",
+        "cas": [
+            "76-29-9"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_117",
+        "name": "Bromostyrene",
+        "cas": [
+            "103-64-0"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_118",
+        "name": "p-tert-Butylphenol",
+        "cas": [
+            "98-54-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND DERMAL DEPIGMENTATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_119",
+        "name": "Cade oil",
+        "cas": [
+            "8013-10-3",
+            "90046-02-9"
+        ],
+        "type": "CARCINOGENICITY, GENOTOXICITY BY RELEASE OF POLYNUCLEAR HYDROCARBONS (PAH)",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_120",
+        "name": "Carvone oxide",
+        "cas": [
+            "33204-74-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_121",
+        "name": "Chenopodium oil",
+        "cas": [
+            "8006-99-3",
+            "8024-11-1",
+            "89997-47-7"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_122",
+        "name": "Cinnamylidene acetone",
+        "cas": [
+            "4173-44-8"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_123",
+        "name": "Colophony",
+        "cas": [
+            "8050-09-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_124",
+        "name": "Costus root oil, absolute and concrete",
+        "cas": [
+            "8023-88-9",
+            "90106-55-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_125",
+        "name": "Cyclamen alcohol",
+        "cas": [
+            "4756-19-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_126",
+        "name": "Musk alpha",
+        "cas": [
+            "63697-53-0"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_127",
+        "name": "Musk KS",
+        "cas": [
+            "62265-99-0"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_128",
+        "name": "2,2-Dichloro-1-methylcyclopropylbenzene",
+        "cas": [
+            "3591-42-2"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_129",
+        "name": "2,4-Dienals",
+        "cas": [
+            "764-40-9",
+            "142-83-6",
+            "80466-34-8",
+            "5910-85-0",
+            "30361-28-5",
+            "6750-03-4",
+            "2363-88-4",
+            "13162-46-4",
+            "21662-16-8",
+            "25152-84-5",
+            "30361-29-6",
+            "4313-03-5",
+            "20432-40-0",
+            "4488-48-6",
+            "5577-44-6",
+            "5910-87-2"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_130",
+        "name": "Diethyl maleate",
+        "cas": [
+            "141-05-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_131",
+        "name": "2,4-Dihydroxy-3-methylbenzaldehyde",
+        "cas": [
+            "6248-20-0"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_132",
+        "name": "4,6-Dimethyl-8-tert-butylcoumarin",
+        "cas": [
+            "17874-34-9"
+        ],
+        "type": "PHOTOSENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_133",
+        "name": "3,7-Dimethyl-2-octen-1-ol",
+        "cas": [
+            "40607-48-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_134",
+        "name": "Dimethyl citraconate",
+        "cas": [
+            "617-54-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_135",
+        "name": "Diphenylamine",
+        "cas": [
+            "122-39-4"
+        ],
+        "type": "TOXICITY, TERATOGENICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_136",
+        "name": "2,4-Dodecadien-1-ol, (2E, 4E)",
+        "cas": [
+            "18485-38-6"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_137",
+        "name": "Esters of 2-Nonynoic acid (except Methyl octine carbonate)",
+        "cas": [
+            "e.g.:",
+            "10031-92-2"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_138",
+        "name": "Esters of 2-Octynoic acid (except Methyl heptine carbonate)",
+        "cas": [
+            "e.g.:",
+            "10484-32-9",
+            "10519-20-7"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_139",
+        "name": "Ethyl acrylate",
+        "cas": [
+            "140-88-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_140",
+        "name": "Ethylene glycol monoethyl ether and its acetate",
+        "cas": [
+            "110-80-5 (ether)",
+            "111-15-9 (acetate)"
+        ],
+        "type": "REPRODUCTIVE TOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_141",
+        "name": "Ethylene glycol monomethyl ether and its acetate",
+        "cas": [
+            "109-86-4 (ether)",
+            "110-49-6 (acetate)"
+        ],
+        "type": "REPRODUCTIVE TOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_142",
+        "name": "Fig leaf absolute",
+        "cas": [
+            "68916-52-9",
+            "90028-74-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND PHOTOTOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_143",
+        "name": "Furfuryl alcohol",
+        "cas": [
+            "98-00-0"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_144",
+        "name": "Furfurylidene acetone",
+        "cas": [
+            "623-15-4"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_145",
+        "name": "Geranyl nitrile",
+        "cas": [
+            "5146-66-7",
+            "5585-39-7",
+            "31983-27-4"
+        ],
+        "type": "GENOTOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_146",
+        "name": "trans-2-Heptenal",
+        "cas": [
+            "18829-55-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_147",
+        "name": "2,4-Hexadien-1-ol",
+        "cas": [
+            "111-28-4",
+            "17102-64-6"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_148",
+        "name": "Hexahydrocoumarin",
+        "cas": [
+            "700-82-3"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_149",
+        "name": "trans-2-Hexenal diethyl acetal",
+        "cas": [
+            "67746-30-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_150",
+        "name": "trans-2-Hexenal dimethyl acetal",
+        "cas": [
+            "18318-83-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_151",
+        "name": "Hydroabietyl alcohol, Dihydroabietyl alcohol",
+        "cas": [
+            "13393-93-6",
+            "26266-77-3",
+            "1333-89-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_152",
+        "name": "Hydroquinone monoethyl ether",
+        "cas": [
+            "622-62-8"
+        ],
+        "type": "DEPIGMENTATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_153",
+        "name": "Hydroquinone monomethyl ether",
+        "cas": [
+            "150-76-5"
+        ],
+        "type": "DEPIGMENTATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_154",
+        "name": "Isophorone",
+        "cas": [
+            "78-59-1"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_155",
+        "name": "6-Isopropyl-2-decalol",
+        "cas": [
+            "34131-99-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_156",
+        "name": "Massoia bark oil",
+        "cas": [
+            "85085-26-3"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_157",
+        "name": "Massoia lactone",
+        "cas": [
+            "54814-64-1",
+            "51154-96-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_158",
+        "name": "7-Methoxycoumarin",
+        "cas": [
+            "531-59-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND PHOTOSENSITIZATION",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_159",
+        "name": "\u03b1-Methyl anisylidene acetone",
+        "cas": [
+            "104-27-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_160",
+        "name": "6-Methylcoumarin",
+        "cas": [
+            "92-48-8"
+        ],
+        "type": "PHOTOSENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_161",
+        "name": "7-Methylcoumarin",
+        "cas": [
+            "2445-83-2"
+        ],
+        "type": "DERMAL SENSITIZATION AND PHOTOSENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_162",
+        "name": "Methyl crotonate",
+        "cas": [
+            "623-43-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_163",
+        "name": "4-Methyl-7-ethoxycoumarin",
+        "cas": [
+            "87-05-8"
+        ],
+        "type": "PHOTOSENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_164",
+        "name": "p-Methylhydrocinnamic aldehyde",
+        "cas": [
+            "5406-12-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_165",
+        "name": "Methyl methacrylate",
+        "cas": [
+            "80-62-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_166",
+        "name": "3-Methyl-2(3)-nonenenitrile",
+        "cas": [
+            "53153-66-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_167",
+        "name": "Musk moskene",
+        "cas": [
+            "116-66-5"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_168",
+        "name": "Musk ambrette",
+        "cas": [
+            "83-66-9"
+        ],
+        "type": "PHOTOSENSITIZATION, NEUROTOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_169",
+        "name": "Musk tibetene",
+        "cas": [
+            "145-39-1"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_170",
+        "name": "Musk xylene",
+        "cas": [
+            "81-15-2"
+        ],
+        "type": "VPVB",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_171",
+        "name": "Nitrobenzene",
+        "cas": [
+            "98-95-3"
+        ],
+        "type": "ACUTE TOXICITY AND SKIN TOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_172",
+        "name": "2-Pentylidene cyclohexanone",
+        "cas": [
+            "25677-40-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_174",
+        "name": "Phenyl acetone",
+        "cas": [
+            "103-79-7"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_175",
+        "name": "Phenyl benzoate",
+        "cas": [
+            "93-99-2"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_176",
+        "name": "Pseudoionone",
+        "cas": [
+            "141-10-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_177",
+        "name": "Pseudo methylionones",
+        "cas": [
+            "26651-96-7",
+            "72968-25-3",
+            "1117-41-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_178",
+        "name": "Quinoline",
+        "cas": [
+            "91-22-5"
+        ],
+        "type": "CARCINOGENICITY AND MUTAGENICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_179",
+        "name": "Safrole, Isosafrole and Dihydrosafrole",
+        "cas": [
+            "94-59-7",
+            "120-58-1",
+            "94-58-6"
+        ],
+        "type": "CARCINOGENICITY",
+        "limit_cat4": 100.0
+    },
+    {
+        "id": "IFRA_STD_180",
+        "name": "Santolina oil",
+        "cas": [
+            "84961-58-0"
+        ],
+        "type": "INSUFFICIENT DATA",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_181",
+        "name": "Savin oil",
+        "cas": [
+            "Prohibition of Savin oil:",
+            "8024-00-8",
+            "90046-04-1",
+            "Specification of Savin oil:",
+            "68916-94-9",
+            "90046-03-0"
+        ],
+        "type": "ACUTE TOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_182",
+        "name": "Toluene",
+        "cas": [
+            "108-88-3"
+        ],
+        "type": "LIVER TOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_183",
+        "name": "Sclareol",
+        "cas": [
+            "515-03-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_184",
+        "name": "Pinacea derivatives",
+        "cas": [
+            "Not applicable."
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_185",
+        "name": "Nootkatone",
+        "cas": [
+            "4674-50-4"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_186",
+        "name": "Limonene",
+        "cas": [
+            "138-86-3",
+            "7705-14-8",
+            "5989-27-5",
+            "5989-54-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_187",
+        "name": "Linalool",
+        "cas": [
+            "78-70-6",
+            "126-90-9",
+            "126-91-0"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_188",
+        "name": "Allyl esters",
+        "cas": [
+            "Not applicable."
+        ],
+        "type": "IRRITATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_189",
+        "name": "Musk ketone",
+        "cas": [
+            "81-14-1"
+        ],
+        "type": "SEE FRAGRANCE INGREDIENT SPECIFICATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_190",
+        "name": "Propenylguaethol",
+        "cas": [
+            "94-86-0",
+            "63477-41-8"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.21
+    },
+    {
+        "id": "IFRA_STD_191",
+        "name": "2-Methoxy-4-propylphenol",
+        "cas": [
+            "2785-87-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.19
+    },
+    {
+        "id": "IFRA_STD_192",
+        "name": "alpha-Bisabolol",
+        "cas": [
+            "515-69-5",
+            "23089-26-1",
+            "23178-88-3",
+            "78148-59-1",
+            "76738-75-5",
+            "72691-24-8"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.6
+    },
+    {
+        "id": "IFRA_STD_193",
+        "name": "p-Tolyl alcohol",
+        "cas": [
+            "589-18-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.048
+    },
+    {
+        "id": "IFRA_STD_194",
+        "name": "p-Isopropylbenzyl alcohol",
+        "cas": [
+            "536-60-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.64
+    },
+    {
+        "id": "IFRA_STD_195",
+        "name": "2,6,10-Trimethylundeca-5,9-dien-1-ol",
+        "cas": [
+            "24048-14-4",
+            "185019-19-6",
+            "58001-88-0",
+            "58001-87-9",
+            "1373932-23-0",
+            "1018832-07-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.29
+    },
+    {
+        "id": "IFRA_STD_197",
+        "name": "Cedrene",
+        "cas": [
+            "11028-42-5",
+            "469-61-4",
+            "546-28-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.38
+    },
+    {
+        "id": "IFRA_STD_198",
+        "name": "4-Phenyl-3-buten-2-ol",
+        "cas": [
+            "17488-65-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.32
+    },
+    {
+        "id": "IFRA_STD_199",
+        "name": "Longifolene",
+        "cas": [
+            "475-20-7",
+            "16846-09-6",
+            "19067-29-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.38
+    },
+    {
+        "id": "IFRA_STD_201",
+        "name": "4-Hydroxy-2,5-dimethyl-3(2H)-furanone",
+        "cas": [
+            "3658-77-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.064
+    },
+    {
+        "id": "IFRA_STD_202",
+        "name": "Farnesal",
+        "cas": [
+            "19317-11-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.15
+    },
+    {
+        "id": "IFRA_STD_203",
+        "name": "3,7-Dimethyl-2,6-nonadien-1-al",
+        "cas": [
+            "41448-29-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.15
+    },
+    {
+        "id": "IFRA_STD_204",
+        "name": "5,9-Dimethyl-4,8-decadienal",
+        "cas": [
+            "762-26-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.15
+    },
+    {
+        "id": "IFRA_STD_205",
+        "name": "3,7-Dimethyl-3,6-octadienal",
+        "cas": [
+            "55722-59-3",
+            "1754-00-3",
+            "72203-98-6",
+            "72203-97-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.12
+    },
+    {
+        "id": "IFRA_STD_206",
+        "name": "Citronellal",
+        "cas": [
+            "106-23-0",
+            "5949-05-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.051
+    },
+    {
+        "id": "IFRA_STD_207",
+        "name": "4,8-Dimethyl-4,9-decadienal",
+        "cas": [
+            "71077-31-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.06
+    },
+    {
+        "id": "IFRA_STD_208",
+        "name": "cis,trans-4-(Isopropyl)cyclohexanemethanol",
+        "cas": [
+            "5502-75-0",
+            "13828-37-0",
+            "13674-19-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.15
+    },
+    {
+        "id": "IFRA_STD_209",
+        "name": "4-(Isopropyl)-.beta.-methylcyclohexanethanol",
+        "cas": [
+            "67634-03-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.26
+    },
+    {
+        "id": "IFRA_STD_210",
+        "name": "Cyclohexanemethanol, 2,4-dimethyl-",
+        "cas": [
+            "68480-15-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.0013
+    },
+    {
+        "id": "IFRA_STD_211",
+        "name": "3,3-Dimethyl-5-(2,2,3-trimethyl-3-cyclopenten-1-yl)-4-penten-2-ol",
+        "cas": [
+            "107898-54-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.27
+    },
+    {
+        "id": "IFRA_STD_212",
+        "name": "5-(2,2,3-Trimethyl-3-cyclopentenyl)-3-methylpentan-2-ol",
+        "cas": [
+            "65113-99-7"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.29
+    },
+    {
+        "id": "IFRA_STD_213",
+        "name": "alpha,2,2,3-Tetramethylcyclopent-3-ene-1-butyraldehyde",
+        "cas": [
+            "65114-03-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.054
+    },
+    {
+        "id": "IFRA_STD_214",
+        "name": "Isobutyl N-methylanthranylate",
+        "cas": [
+            "65505-24-0"
+        ],
+        "type": "POTENTIAL OF NITROSAMINE FORMATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_215",
+        "name": "p-Methyltetrahydroquinoline",
+        "cas": [
+            "91-61-2"
+        ],
+        "type": "POTENTIAL OF NITROSAMINE FORMATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_216",
+        "name": "1,2,3,4-Tetrahydro-4-methylquinoline",
+        "cas": [
+            "19343-78-3"
+        ],
+        "type": "POTENTIAL OF NITROSAMINE FORMATION",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_217",
+        "name": "4-(4-Hydroxyphenyl)butan-2-one",
+        "cas": [
+            "5471-51-2"
+        ],
+        "type": "DEPIGMENTATION",
+        "limit_cat4": 0.14
+    },
+    {
+        "id": "IFRA_STD_218",
+        "name": "Mintlactone",
+        "cas": [
+            "13341-72-5",
+            "38049-04-6"
+        ],
+        "type": "GENOTOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_219",
+        "name": "Ethyl isopropyl bicycloheptene-2-carboxylate",
+        "cas": [
+            "116044-44-1",
+            "116126-82-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.24
+    },
+    {
+        "id": "IFRA_STD_220",
+        "name": "Tetramethyl bicyclo-2-heptene-2-propionaldehyde",
+        "cas": [
+            "33885-52-8"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.0014
+    },
+    {
+        "id": "IFRA_STD_221",
+        "name": "1-(2,2,6-Trimethylcyclohexyl)-3-hexanol",
+        "cas": [
+            "70788-30-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.34
+    },
+    {
+        "id": "IFRA_STD_222",
+        "name": "1-(2-tert.-Butyl cyclohexyloxy)-2-butanol",
+        "cas": [
+            "139504-68-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.34
+    },
+    {
+        "id": "IFRA_STD_223",
+        "name": "3,6,7-Trimethyl-2,6-octadienal",
+        "cas": [
+            "1891-67-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.034
+    },
+    {
+        "id": "IFRA_STD_224",
+        "name": "2,4,4,7-Tetramethyl-6-octen-3-one",
+        "cas": [
+            "74338-72-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.48
+    },
+    {
+        "id": "IFRA_STD_225",
+        "name": "2-Cyclohexylidene-2-ortho-tolylacetonitrile",
+        "cas": [
+            "916887-53-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.13
+    },
+    {
+        "id": "IFRA_STD_226",
+        "name": "Ethyl and Methyl furaneol",
+        "cas": [
+            "27538-09-6",
+            "27538-10-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.064
+    },
+    {
+        "id": "IFRA_STD_227",
+        "name": "2-Hexylidenecyclohexan-1-one",
+        "cas": [
+            "16429-07-5"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.033
+    },
+    {
+        "id": "IFRA_STD_228",
+        "name": "2-Methyl-2-pentenal",
+        "cas": [
+            "623-36-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.002
+    },
+    {
+        "id": "IFRA_STD_229",
+        "name": "2-Octen-4-one",
+        "cas": [
+            "4643-27-0"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.012
+    },
+    {
+        "id": "IFRA_STD_231",
+        "name": "Methyl lavender ketone",
+        "cas": [
+            "67801-33-6",
+            "67633-95-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.021
+    },
+    {
+        "id": "IFRA_STD_232",
+        "name": "3,4,5,6,6-Pentamethylhept-3-en-2-one",
+        "cas": [
+            "81786-75-6",
+            "81786-73-4",
+            "86115-11-9",
+            "81786-74-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.029
+    },
+    {
+        "id": "IFRA_STD_233",
+        "name": "3-Methyl-5-phenylpent-2-enenitrile",
+        "cas": [
+            "93893-89-1",
+            "53243-59-7",
+            "53243-60-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.029
+    },
+    {
+        "id": "IFRA_STD_234",
+        "name": "3-Octen-2-one",
+        "cas": [
+            "1669-44-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.012
+    },
+    {
+        "id": "IFRA_STD_235",
+        "name": "Dimethyl octenone",
+        "cas": [
+            "2550-11-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.37
+    },
+    {
+        "id": "IFRA_STD_236",
+        "name": "Isopentylcyclohexanone",
+        "cas": [
+            "16587-71-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.038
+    },
+    {
+        "id": "IFRA_STD_237",
+        "name": "Woody furan",
+        "cas": [
+            "338735-71-0",
+            "351343-77-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.24
+    },
+    {
+        "id": "IFRA_STD_238",
+        "name": "Allyl 3-cyclohexylpropionate",
+        "cas": [
+            "2705-87-5"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.12
+    },
+    {
+        "id": "IFRA_STD_239",
+        "name": "alpha-Amylcinnamicaldehyde diethyl acetal",
+        "cas": [
+            "60763-41-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.089
+    },
+    {
+        "id": "IFRA_STD_240",
+        "name": "alpha-Amylcinnamicaldehyde dimethyl acetal",
+        "cas": [
+            "91-87-2"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.089
+    },
+    {
+        "id": "IFRA_STD_241",
+        "name": "alpha-Cyclohexylidene benzeneacetonitrile",
+        "cas": [
+            "10461-98-0"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.13
+    },
+    {
+        "id": "IFRA_STD_242",
+        "name": "5-Hexen-1-yl 2-methylbutanoate",
+        "cas": [
+            "155514-23-1"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.16
+    },
+    {
+        "id": "IFRA_STD_243",
+        "name": "Carvyl acetate",
+        "cas": [
+            "97-42-7",
+            "1205-42-1",
+            "1134-95-8"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.06
+    },
+    {
+        "id": "IFRA_STD_244",
+        "name": "cis-3-Heptenyl acetate",
+        "cas": [
+            "1576-78-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_245",
+        "name": "cis-3-Hexenyl isovalerate",
+        "cas": [
+            "35154-45-1"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_246",
+        "name": "cis-3-Hexenyl methyl carbonate",
+        "cas": [
+            "67633-96-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.14
+    },
+    {
+        "id": "IFRA_STD_247",
+        "name": "cis-3-Nonenyl acetate",
+        "cas": [
+            "13049-88-2"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_248",
+        "name": "Citronellyl acetate",
+        "cas": [
+            "150-84-5",
+            "67601-05-2",
+            "141-11-7"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.7
+    },
+    {
+        "id": "IFRA_STD_249",
+        "name": "Cyclohexadecanone",
+        "cas": [
+            "2550-52-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 1.1
+    },
+    {
+        "id": "IFRA_STD_250",
+        "name": "Cyclohexadecenone",
+        "cas": [
+            "88642-03-9",
+            "5365-06-0",
+            "2550-59-6",
+            "3100-36-5",
+            "5120-20-7",
+            "854373-71-0",
+            "854373-70-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 1.1
+    },
+    {
+        "id": "IFRA_STD_251",
+        "name": "1-(2,2,6-Trimethylcyclohexyl)-3-pentanol",
+        "cas": [
+            "60241-52-3",
+            "60241-53-4"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.34
+    },
+    {
+        "id": "IFRA_STD_252",
+        "name": "(Ethoxymethoxy)-cyclododecane",
+        "cas": [
+            "58567-11-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.38
+    },
+    {
+        "id": "IFRA_STD_253",
+        "name": "6-Hydroxy-2,6-dimethylheptanal",
+        "cas": [
+            "62439-42-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.32
+    },
+    {
+        "id": "IFRA_STD_254",
+        "name": "Isobutyl cinnamate",
+        "cas": [
+            "122-67-8"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.32
+    },
+    {
+        "id": "IFRA_STD_255",
+        "name": "Isoeugenyl acetate",
+        "cas": [
+            "93-29-8"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.061
+    },
+    {
+        "id": "IFRA_STD_256",
+        "name": "4-Methyl-1-propan-2-ylbicyclo[2.2.2]oct-2-ene-8-carboxylate",
+        "cas": [
+            "68966-86-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.24
+    },
+    {
+        "id": "IFRA_STD_257",
+        "name": "Methyl vanillyl ether",
+        "cas": [
+            "5533-03-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.065
+    },
+    {
+        "id": "IFRA_STD_258",
+        "name": "Myraldyl acetate",
+        "cas": [
+            "72403-67-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.11
+    },
+    {
+        "id": "IFRA_STD_259",
+        "name": "Octahydro-dimethylnaphthalene-2-carbaldehyde (mixed isomers)",
+        "cas": [
+            "68738-94-3",
+            "68738-96-5",
+            "68991-96-8",
+            "68991-97-9"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.54
+    },
+    {
+        "id": "IFRA_STD_260",
+        "name": "p-Cresol",
+        "cas": [
+            "106-44-5",
+            "1319-77-3"
+        ],
+        "type": "DEPIGMENTATION",
+        "limit_cat4": 0.005
+    },
+    {
+        "id": "IFRA_STD_261",
+        "name": "Phenoxyacetaldehyde",
+        "cas": [
+            "2120-70-9"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.064
+    },
+    {
+        "id": "IFRA_STD_262",
+        "name": "Carvomenthone",
+        "cas": [
+            "499-70-7",
+            "59471-80-6"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.0019
+    },
+    {
+        "id": "IFRA_STD_263",
+        "name": "4-tert-Butylcyclohexanone",
+        "cas": [
+            "98-53-3"
+        ],
+        "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+        "limit_cat4": 0.038
+    },
+    {
+        "id": "IFRA_STD_264",
+        "name": "7-Methoxy-3,7-dimethyloct-1-ene",
+        "cas": [
+            "53767-86-5"
+        ],
+        "type": "SYSTEMIC TOXICITY",
+        "limit_cat4": 1e-05
+    },
+    {
+        "id": "IFRA_STD_265",
+        "name": "Methoxycyclododecane",
+        "cas": [
+            "2986-54-1"
+        ],
+        "type": "SYSTEMIC TOXICITY",
+        "limit_cat4": 0.0046
+    },
+    {
+        "id": "IFRA_STD_266",
+        "name": "3-Acetyl-2,5-dimethylfuran",
+        "cas": [
+            "10599-70-9"
+        ],
+        "type": "GENOTOXICITY",
+        "limit_cat4": NaN
+    },
+    {
+        "id": "IFRA_STD_267",
+        "name": "2,5-Octadien-4-one, 5,6,7-trimethyl-, (2E)-",
+        "cas": [
+            "358331-95-0",
+            "357650-26-1",
+            "847144-75-6"
+        ],
+        "type": "DERMAL SENSITIZATION",
+        "limit_cat4": 0.027
+    }
+]
