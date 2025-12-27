@@ -378,7 +378,7 @@
         "IFRA_STD_076": {
             "name": "3-Propylidenephthalide",
             "type": "DERMAL SENSITIZATION",
-            "limit_cat4": null
+            "limit_cat4": 0.4
         },
         "IFRA_STD_077": {
             "name": "Rose ketones",
@@ -468,7 +468,7 @@
         "IFRA_STD_094": {
             "name": "Methyl N-methylanthranilate",
             "type": "PHOTOTOXICITY AND SYSTEMIC TOXICITY, POTENTIAL OF NITROSAMINE FORMATION",
-            "limit_cat4": null
+            "limit_cat4": 0.1
         },
         "IFRA_STD_095": {
             "name": "Methyl beta-naphthyl ketone",
