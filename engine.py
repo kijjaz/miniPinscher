@@ -65,6 +65,12 @@ class IFRAEngine:
                 print(f" - {m}")
             print("COLLECTIVE COMPLIANCE CANNOT BE FULLY GUARANTEED.")
             
+        if data.get('data_integrity_warnings'):
+            print("-" * 85)
+            print("DATA INTEGRITY WARNINGS (Check for incomplete composition data):")
+            for m in data['data_integrity_warnings']:
+                print(f" - {m}")
+
         print("-" * 85)
         
         # Table Header
@@ -115,6 +121,7 @@ class IFRAEngine:
         # Key: CAS -> { 'total_conc': float, 'is_photo_exempt': bool, 'sources': { origin_name: conc } }
         restricted_components = {}
         unresolved_materials = []
+        data_integrity_warnings = []
         
         # 2. Process normalized entries
         for entry in normalized_formula:
@@ -136,6 +143,15 @@ class IFRAEngine:
             elif norm_name and (norm_name in self.contributions_data):
                 resolution_key = norm_name
             
+            # Data Integrity Check (Sub-100% check)
+            if resolution_key and resolution_key in self.contributions_data:
+                c_data = self.contributions_data[resolution_key]
+                c_sum = sum(c_data.get('constituents', {}).values())
+                # If sum < 90% and name doesn't imply a dilution (e.g. "10% in")
+                is_dilution = any(re_match in name.lower() for re_match in ["% in", "dilution", " (dil)"])
+                if c_sum < 90.0 and not is_dilution:
+                    data_integrity_warnings.append(f"{name} (Composition only totals {round(c_sum, 1)}%)")
+
             # Resolve
             found = False
             if cas and not resolution_key:
@@ -271,7 +287,8 @@ class IFRAEngine:
             'critical_component': critical_component,
             'max_safe_dosage': pass_dosage,
             'finished_dosage': finished_dosage,
-            'unresolved_materials': unresolved_materials
+            'unresolved_materials': unresolved_materials,
+            'data_integrity_warnings': data_integrity_warnings
         }
 
 if __name__ == "__main__":
@@ -312,6 +329,9 @@ if __name__ == "__main__":
         
         # Database Validation Test (Missing item)
         {'name': 'Mystery Material X (Not in DB)', 'amount': 1.0},
+        
+        # Data Integrity Test (Partial composition < 90%)
+        {'name': 'Lavandin absolute from PerfumersWorld', 'amount': 2.0},
         
         # Other base materials
         {'name': 'Phenyl Ethyl Alcohol (PEA) from PerfumersWorld', 'amount': 13.65}
