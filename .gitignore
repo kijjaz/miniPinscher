@@ -1,26 +1,33 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
+# Ignore all files at the root level by default
+/*
+
+# Allow directories to be scanned
+!/*/
+
+# Whitelist our core workspace scripts and configs at the root level
+!/.gitignore
+!/requirements.txt
+!/build_060_sheet.py
+!/build_061_sheet.py
+!/verify_060_sheet.py
+!/verify_061_sheet.py
+!/release_sheets_package.py
+
+# Ignore specific directories containing legacy web apps and evicted reference data
+google_sheets_assets/
+google_sheets_data/
+ifra_checker_app/
+scratch/
+v0.3.0/
+v0.3.1/
+v0.4.0_Web/
+v0.5.0_Legacy/
+_backup_pre_cli/
+
+# Ignore standard virtual envs and hidden system folders
 .venv/
 venv/
-env/
-.env
-
-# Data Files (Keep optimized ones, ignore raw excel ones)
-*.xlsx
-*.pdf
-!DB_User_Materials_Optimized.xlsx
-!ifra-51st-amendment-ifra-standards-overview.xlsx
-# (Actually, for deployment we only need the .json files, 
-# but keeping the optimized Excel helps with future database refreshes)
-
-# IFRA Large Raw Data
-ifra-51st-amendment-annex-on-contributions-from-other-sources.xlsx
-
-# Local Test Files
-complex_perfume_formula.csv
-example_formula.csv
-
-# System
+venv_new/
 .DS_Store
+__pycache__/
+*.pyc

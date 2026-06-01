@@ -1,5 +1,7 @@
 streamlit
 pandas
+sqlmodel
+typer
 openpyxl
-pyarrow
-fpdf2
+sqlalchemy
+watchdog
