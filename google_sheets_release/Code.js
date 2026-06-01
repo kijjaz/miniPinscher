@@ -232,9 +232,9 @@ function IFRA_COMPLIANCE_V5(formula, standardsTable, naturalsTable, inventoryTab
         }
         const failCount = details.filter(d => d.status === "FAIL").length;
         if (failCount === 0) {
-            result.push(["✅ FINAL RESULT: ALL PASS", "", "", "", "", ""]);
+            result.push(["✅ FINAL RESULT: ALL PASS (Dosage: " + dosageVal + "%)", "", "", "", "", ""]);
         } else {
-            result.push(["❌ FINAL RESULT: " + failCount + " FAILS", "", "", "", "", ""]);
+            result.push(["❌ FINAL RESULT: " + failCount + " FAILS (Dosage: " + dosageVal + "%)", "", "", "", "", ""]);
         }
     } else {
         result.push(["No Regulated Ingredients Found", "-", "-", "-", "PASS", "-"]);
@@ -571,9 +571,9 @@ function EU_LABELING_V5(formula, allergensTable, naturalsTable, inventoryTable, 
     }
 
     if (requiredLabels.length > 0) {
-        result.push([`Required Labels: ${requiredLabels.join(", ")}`, "", "", "", "", ""]);
+        result.push([`Required Labels: ${requiredLabels.join(", ")} (Dosage: ${dosageVal}%)`, "", "", "", "", ""]);
     } else {
-        result.push(["No allergens exceed threshold", "", "", "", "", ""]);
+        result.push([`No allergens exceed threshold (Dosage: ${dosageVal}%)`, "", "", "", "", ""]);
     }
 
     return result;
