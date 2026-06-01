@@ -170,7 +170,7 @@ function IFRA_COMPLIANCE_V5(formula, standardsTable, naturalsTable, inventoryTab
         for (let src of sortedSources) {
             if (src.amount <= 0) continue;
             const srcConc = (src.amount / totalFormulaAmount) * 100.0 * (dosageVal / 100.0);
-            if (srcConc > 0.0001) {
+            if (srcConc > 0) {
                 let label = src.name;
                 if (src.type === "Direct") label = "Direct";
                 sourceTextParts.push(`${label} (${srcConc.toFixed(4)}%)`);
@@ -531,7 +531,7 @@ function EU_LABELING_V5(formula, allergensTable, naturalsTable, inventoryTable, 
             for (let src of sortedSources) {
                 if (src.amount <= 0) continue;
                 const srcConc = (src.amount / totalFormulaAmount) * 100.0 * (dosageVal / 100.0);
-                if (srcConc > 0.0001) {
+                if (srcConc > 0) {
                     let label = src.name;
                     if (src.type === "Direct") label = "Direct";
                     sourceTextParts.push(`${label} (${srcConc.toFixed(4)}%)`);
