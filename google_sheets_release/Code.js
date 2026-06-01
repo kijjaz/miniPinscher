@@ -133,7 +133,7 @@ function IFRA_COMPLIANCE_V5(formula, standardsTable, naturalsTable, inventoryTab
 
     // 4. Construct Output
     const details = [];
-    const dosageVal = (finishedDosage !== undefined && finishedDosage !== null && finishedDosage !== "") ? Number(finishedDosage) : 100.0;
+    const dosageVal = parseDosage(finishedDosage);
 
     for (let stdName in groupedMap) {
         if (totalFormulaAmount === 0) continue;
@@ -244,6 +244,28 @@ function IFRA_COMPLIANCE_V5(formula, standardsTable, naturalsTable, inventoryTab
 }
 
 // --- Helpers ---
+
+function parseDosage(finishedDosage) {
+    if (finishedDosage === undefined || finishedDosage === null || finishedDosage === "") {
+        return 100.0;
+    }
+    let val = finishedDosage;
+    if (Array.isArray(val)) {
+        if (val.length > 0 && Array.isArray(val[0])) {
+            val = val[0][0];
+        } else if (val.length > 0) {
+            val = val[0];
+        }
+    }
+    if (val === undefined || val === null || val === "") {
+        return 100.0;
+    }
+    if (typeof val === 'string') {
+        val = val.replace("%", "").trim();
+    }
+    const num = Number(val);
+    return (isNaN(num) || num <= 0) ? 100.0 : num;
+}
 
 function addExposure(map, cas, amount, sourceName, type) {
     if (!cas) return;
@@ -414,7 +436,7 @@ function EU_LABELING_V5(formula, allergensTable, naturalsTable, inventoryTable, 
     const normalize = (str) => str ? str.toString().trim().toLowerCase() : "";
     const typeStr = normalize(productType) === "rinse-off" ? "rinse-off" : "leave-on";
     const threshold = typeStr === "rinse-off" ? 0.01 : 0.001;
-    const dosageVal = (finishedDosage !== undefined && finishedDosage !== null && finishedDosage !== "") ? Number(finishedDosage) : 100.0;
+    const dosageVal = parseDosage(finishedDosage);
 
     // Parse Databases
     const allergens = parseAllergens(allergensTable);
